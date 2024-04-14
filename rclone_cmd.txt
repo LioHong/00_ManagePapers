@@ -1,0 +1,26 @@
+https://tcude.net/setting-up-rclone-with-google-drive/
+
+cd .\Desktop\Programs\rclone-v1.66.0-windows-amd64\
+
+rclone mount gdrive_mount_crypt: /mnt/gdrive --allow-other --cache-db-purge --fast-list --poll-interval 10m
+rclone mount remote:path/to/files C:\path\parent\mount
+MOUNT
+rclone.exe mount papers: "C:\00_My Files\99_Papers"
+
+TEST
+rclone sync --interactive SOURCE remote:DESTINATION
+rclone.exe sync  --interactive "C:\00_My Files\98_Papers" papers:
+
+rclone sync /path/to/local/dir gdrive_crypt: --bwlimit=8.5M --progress
+rclone.exe sync "C:\00_My Files\99_Papers" papers: --bwlimit=8.5M --progress
+rclone.exe sync papers: "C:\00_My Files\99_Papers" --bwlimit=8.5M --progress
+
+DELETE
+rclone.exe delete --dry-run papers:
+rclone.exe delete --rmdirs papers:
+rclone.exe purge --dry-run papers: (Purge is for folders other than root. 'delete' is preferred cmd.)
+
+FILES
+rclone.exe ls papers:
+DIRECTORIES
+rclone.exe lsf papers:

@@ -11,27 +11,28 @@ Steps:
 4. Write to output path.
 5. Compare two different output paths and return diff.
 """
-
 from pathlib import Path
 from difflib import unified_diff
 # Check folder structure (proxy for device identity).
 # https://stackoverflow.com/questions/55516779/how-to-move-up-n-directories-in-pythonic-way
-grandparent = str(Path.cwd().parents[1])
+cwd_p = Path.cwd()
+grandparent = cwd_p.parents[1].name
 dpath = Path(".") / "desktop.txt"
 lpath = Path(".") / "laptop.txt"
 # Choose output path.
-if grandparent == "C:\\00_My Files":
+if grandparent == "00_My Files":
     op_path = dpath
-elif grandparent == "C\\":
+elif grandparent == "Documents":
     op_path = lpath
 else:
     print("Old grandparents missing. Is this a new device?")
 
 # List directories in XX_Papers folder (should be super-folder).
-pfiles = Path.cwd().parent.glob("**/*")
-papers = [str(p) for p in pfiles if p.is_file()]
+pfiles = cwd_p.parent.glob("**/*")
+# Too-long filenames cause issues, so I compressed the offending webpage.
+papers = [str(p).split(cwd_p.parent.name+'\\')[1] for p in pfiles if p.is_file()]
 # Exclude 00_PapersMgmt folder itself.
-papers = [p for p in papers if '00_PapersMgmt' not in p]
+papers = [p for p in papers if cwd_p.name not in p]
 op_path.write_text("\n".join(papers), encoding="utf-8")
 
 # Compare different output paths and return diff. Desktop as default.

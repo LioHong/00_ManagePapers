@@ -1,0 +1,33 @@
+https://alife.org/conferences/conferences-isal-past/
+
+https://direct.mit.edu/isal/volumes/browse-by-conference
+2023: https://direct.mit.edu/isal/proceedings/isal/35/1/116923
+2022: https://direct.mit.edu/isal/proceedings/isal2022/34/1/112247
+2021: https://direct.mit.edu/isal/proceedings/isal2021/33/119/102939
+2020: https://direct.mit.edu/isal/proceedings/isal2020/32/2/98388
+2019: https://direct.mit.edu/isal/proceedings/isal2019/31/i/99170
+2018: https://direct.mit.edu/isal/proceedings/alife2018/30/i/99649
+2017: https://web.archive.org/web/20180721210725/http://cognet.mit.edu/sites/default/files/ecal2017_0.pdf
+2016: https://research-information.bris.ac.uk/ws/portalfiles/portal/142259326/Full_text_PDF_final_published_version_.pdf (Firefox)
+2015: https://archive.org/details/ECAL2015 (Firefox)
+2014: https://web.archive.org/web/20150920043656/http://mitpress.mit.edu/sites/default/files/titles/free_download/9780262326216_Artificial_Life_2014.pdf
+2013: https://archive.org/download/AdvancesInArtificialLifeECAL2013/Advances%20in%20Artificial%20Life%20ECAL%202013.pdf
+2012: https://web.archive.org/web/20170706050012/https://mitpress.mit.edu/sites/default/files/titles/free_download/9780262310505_Artificial_Life_13.pdf
+2011: https://archive.org/download/ECAL2011/ECAL%202011.pdf
+
+2023:
+2022: https://www.youtube.com/@ALIFE-jq7hk/videos
+2021: https://www.youtube.com/@ALIFE2021/videos
+2020: https://www.youtube.com/channel/UCu8L5ITvjH58rtmq8L7L_Tg/videos
+2019: 
+2018: https://www.youtube.com/playlist?list=PLnXhNqOdmvKgClxzio7bFOls3C9Iwlkjo
+2017: 
+2016: https://www.youtube.com/watch?v=_6_B1X92KZs
+2015: 
+2014: 
+2013: 
+2012: 
+2011: 
+
+
+ALIFE 2021 Tutorial: Differentiable Self-Organizing System https://www.youtube.com/watch?v=RjXC9ZiXJbg
