@@ -1,0 +1,38 @@
+Zotero
+
+I first learned about Zotero while in wetlab during my undergrad, but only in the past few months did I finally commit to using it. I had been using my supervisor's method of YYYY_AU_Title for file-naming, with slight modificiations for multiple authors and whether it was a preprint or PhD thesis. I thought that it was high time I moved to a better system. She might have been disappointed to learn that I had been stuck with such an old system too, I think.
+
+To 'Rename and Move' webpage snapshots with Zotfile, I added 'html' to the filetypes allowed in Advanced Settings. 
+Then, I ran 'Rename and Move' for all the items in Zotero.
+I now have a new problem - The multiple attachments within each item have been completely renamed. But hopefully this should not happen again...
+Even if I sync the files with rclone, the names wouldn't change, right? If only there was a way to copy only the diffs. I can't even copy a local backup and then manually paste inside because the different filenames would lead to dupes.
+In other words... I probably have to hunt down each offending attachment to rename them. (I used the in-built checklist because I wasn't aware of markdown lists. But it's quite fitting as item 2 shows...)
+- [x] Openly available illustrations as tools to describe eukaryotic microbial diversity, 6 supporting figs (added ZIP and 7Z files, then R&M again...)
+- [ ] Artificial Life Models in Software (appendix) - Even bigger problem: How come some attachments lack authors? They're clearly included in the citations.
+
+If run out of space, consider deleting the papers from the ALIFE conferences, as they are already stored in the main document. Maybe retain only the items but not the attachments.
+
+
+99_Papers/00_ManagePapers:
+My personal working folder for data management
+
+Generate bibliography reference for one-off use:
+1. Right-click and select "Create Bibliography from Item..."
+2. Select Output Mode: Bibliogrpahy
+3. Select Output Method: Copy to Clipboard
+
+Secure login credentials:
+1. Input if not already present
+1. Encrypt with SHA256 or some other algorithm
+1. Store in separate text file
+1. Add option to update credentials in main()
+
+Need to copy annotated PDFs also.
+
+I would really appreciate it if there was a way to see all the collections that an item belongs to. Could check pull requests, or write my own. But that would entail building Zotero myself.
+
+
+Also thinking what's the difference between the Library and the @inbox placeholder collection
+
+Tags:
+  research, zotero
