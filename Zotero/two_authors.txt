@@ -1,0 +1,51 @@
+'BartlettS_LouapreD',
+'BechtelW_BichL',
+'BenureauF_TaniJ',
+'BinghamE_RatcliffW',
+'DahlbergB_IzquierdoE',
+'FergusonA_OfriaC',
+'FieldsC_LevinM',
+'FroeseT_KarelinG',
+'GaoJ_WangD',
+'HickinbothamS_StepneyS',
+'KeelingP_EglitY',
+'LloydH_AmosM',
+'LyonP_KuchlingF',
+'McMillenP_LevinM',
+'MoralesA_FroeseT',
+'SakaiM_SuzukiY',
+'St. LuceS_SayamaH',
+'StepneyS_HickinbothamS',
+'TripathyP_MaityK',
+'VroomansR_ColizziE',
+'WanK_JékelyG',
+'YoungJ_ColtonS'
+
+Bartlett_Louapre_2022_Provenance of life.pdf
+Bechtel_Bich_2021_Grounding cognition.pdf
+Benureau_Tani_2022_Morphological Development at the Evolutionary Timescale2.pdf
+Bingham_Ratcliff_2024_A nonadaptive explanation for macroevolutionary patterns in the evolution of2.pdf
+Dahlberg_Izquierdo_2020_Contributions from parallel strategies for spatial orientation in.pdf
+Ferguson_Ofria_2023_Potentiating Mutations Facilitate the Evolution of Associative Learning in.pdf
+Fields_Levin_2022_Competency in Navigating Arbitrary Spaces as an Invariant for Analyzing2.pdf
+Froese_Karelin_2023_The enactive account of motivated activity and the hard problem of efficacy.pdf
+Gao_Wang_2023_Quantifying the Benefit of Artificial Intelligence for Scientific Research.pdf
+Hickinbotham_Stepney_2015_Conservation of Matter Increases Evolutionary Activity.pdf
+Keeling_Eglit_2023_Openly available illustrations as tools to describe eukaryotic microbial2.pdf
+Keeling_Eglit_2023_Openly available illustrations as tools to describe eukaryotic microbial3.pdf
+Keeling_Eglit_2023_Openly available illustrations as tools to describe eukaryotic microbial4.pdf
+Keeling_Eglit_2023_Openly available illustrations as tools to describe eukaryotic microbial5.pdf
+Lloyd_Amos_2018_Solving Sudoku with Ant Colony Optimisation.pdf
+Lyon_Kuchling_2021_Valuing what happens.pdf
+McMillen_Levin_2024_Collective intelligence2.pdf
+Morales_Froese_2019_Self-optimization in a Hopfield neural network based on the.pdf
+Sakai_Suzuki_2014_Evolution of Chemical Signals in Ecological System Evoked by the Cry-Wolf Plants.pdf
+St. Luce_Sayama_2020_Errata.pdf
+Stepney_Hickinbotham_2020_Innovation, Variation, and Emergence in an Automata Chemistry2.pdf
+Stepney_Hickinbotham_2020_Innovation, Variation, and Emergence in an Automata Chemistry3.pdf
+Tripathy_Maity_2020_Cutting forces analysis of micro-milling process on Inconel 718 – a finite.pdf
+Vroomans_Colizzi_2022_Evolution of selfish multicellularity collective organisation of individual.pdf
+Wan_Jékely_2021_Origins of eukaryotic excitability.pdf
+Young_Colton_2022_Erratum One.pdf
+Young_Colton_2022_Erratum Two.pdf
+Young_Colton_2022_Finding Chemical Organisations in Matter-Conserving AChems.pdf

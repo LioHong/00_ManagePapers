@@ -1,0 +1,109 @@
+'AcklesA et al',
+'AnagnouS et al',
+'AndersonB et al',
+'BorgJ et al',
+'ChurchS et al',
+'ColizziE et al',
+'DinetC et al',
+'DittrichP et al',
+'DolsonE et al',
+'Domazet-LošoT et al',
+'Faulkner RainfordP et al',
+'FeldmanA et al',
+'GogartenM et al',
+'GrbicD et al',
+'HokmabadB et al',
+'IngrahamJ et al',
+'JaafarS et al',
+'JernvallJ et al',
+'JungK et al',
+'KarikóK et al',
+'KriegmanS et al',
+'LalejiniA et al',
+'LehmanJ et al',
+'LenskiR et al',
+'LevinM et al',
+'LyonP et al',
+'MooreD et al',
+'MorenoM et al',
+'MoseleyG et al',
+'MunroC et al',
+'NovosolovM et al',
+'NyergesA et al',
+'PentzJ et al',
+'RisiS et al',
+'RmW et al',
+'SharmaA et al',
+'SkocelasK et al',
+'StefanovicD et al',
+'YaoY et al',
+'ČejkováJ et al'
+
+Ackles et al_2020_Rank epistasis.pdf
+Anagnou et al_2023_Erratum.pdf
+Anagnou et al_2023_The Effect of Noise on the Emergence of Continuous Norms and its Evolutionary2.pdf
+Anderson et al_2010_Incorporation of pseudouridine into mRNA enhances translation by diminishing.pdf
+Borg et al_2023_Evolved Open-Endedness in Cultural Evolution2.pdf
+Church et al_2015_The Histology of Nanomia bijuga (Hydrozoa.pdf
+Colizzi et al_2022_Evolution of genome fragility enables microbial division of labor.pdf
+Dinet et al_2021_Linking single-cell decisions to collective behaviours in social bacteria.pdf
+Dittrich et al_2001_Artificial chemistries--a review.pdf
+Dolson et al_2018_Quantifying the Tape of Life.pdf
+Domazet-Lošo et al_2014_Naturally occurring tumours in the basal metazoan Hydra2.pdf
+Faulkner Rainford et al_2019_Implementing MetaChem framework in Object Orientation.pdf
+Feldman et al_2019_Optimization of Replication, Transcription, and Translation in a Semi-Synthetic2.pdf
+Gogarten et al_2009_Horizontal Gene Transfer.pdf
+Gogarten_2009_Horizontal Gene Transfer Genomes in Flux.pdf
+Grbic et al_2020_EvoCraft.pdf
+Hokmabad et al_2022_Spontaneously rotating clusters of active droplets2.pdf
+Ingraham et al_2023_Illuminating protein space with a programmable generative model2.pdf
+Jaafar et al_2023_How excessive elitism can facilitate the evolution of morphology and behavior.pdf
+Jernvall et al_2023_Toward a universal measure of robustness across model organs and systems.pdf
+Jung et al_2014_Female hurricanes are deadlier than male hurricanes.pdf
+Karikó et al_2005_Suppression of RNA Recognition by Toll-like Receptors.pdf
+Karikó et al_2008_Incorporation of Pseudouridine Into mRNA Yields Superior Nonimmunogenic Vector.pdf
+Kriegman et al_2020_A scalable pipeline for designing reconfigurable organisms.pdf
+Kriegman et al_2020_A scalable pipeline for designing reconfigurable organisms2.pdf
+Lalejini et al_2022_The evolution of adaptive phenotypic plasticity stabilizes populations against.pdf
+Lehman et al_2019_The Surprising Creativity of Digital Evolution.pdf
+expression_arrays.html
+glossary.html
+Lenski et al_2003_SUPP.pdf
+lineage.html
+Lines of Descent.pdf
+logic_programs.html
+Pivotal Expression Arrays.pdf
+Levin et al_2019_Planarian regeneration as a model of anatomical homeostasis.pdf
+Lyon et al_2021_Reframing cognition.pdf
+Moore et al_2017_Cancer as a disorder of patterning information.pdf
+Moreno et al_2022_Hereditary Stratigraphy.pdf
+Moreno et al_2023_Toward Phylogenetic Inference of Evolutionary Dynamics at Scale.pdf
+Moseley et al_2013_Limb-specific autonomic dysfunction in complex regional pain syndrome modulated.pdf
+41598_2019_51842_MOESM1_ESM.pdf
+41598_2019_51842_MOESM2_ESM.mov
+41598_2019_51842_MOESM3_ESM.mov
+Munro et al_2019_Morphology and development of the Portuguese man of war, Physalia physalis.pdf
+Novosolov et al_2022_The Phylogenetic Position of the Enigmatic, Polypodium hydriforme (Cnidaria,.pdf
+Nyerges et al_2022_Swapped genetic code blocks viral infections and gene transfer.pdf
+Pentz et al_2022_Clonal development, not aggregation, drives the transition to multicellularity2.pdf
+Risi et al_2016_Petalz.pdf
+Risi et al_2016_Petalz2.pdf
+Rm et al_2021_The evolution of strongly-held group identities through agent-based cooperation.pdf
+Sharma et al_2023_Assembly theory explains and quantifies selection and evolution.pdf
+Sharma et al_2023_Assembly theory explains and quantifies selection and evolution2.pdf
+Skocelas et al_2022_The Evolution of Genetic Robustness for Cellular Cooperation in Early.pdf
+Stefanovic et al_2013_Catalytic Molecular Walkers2.pdf
+data_&_R_code_for_figures.zip
+pone.0090695.s001.docx
+pone.0090695.s002.docx
+pone.0090695.s003.docx
+pone.0090695.s004.docx
+pone.0090695.s005.docx
+pone.0090695.s006.docx
+pone.0090695.s007.docx
+pone.0090695.s008.docx
+pone.0090695.s009.docx
+pone.0090695.s010.docx
+Yao_et_al_2016_supplementary_information.docx
+Čejková et al_2013_Artificial spores - hybrid alginate microcapsules with encapsulated yeast cells.pdf
+Čejková et al_2021_The 2021 Conference on Artificial Life (full proceedings pdf)2.pdf
