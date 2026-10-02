@@ -1,744 +1,451 @@
-'99_Papers/AkinciK/Akinci_2019_Evolving Recurrent Neural Network Controllers by Incremental Fitness Shaping 1.pdf'
-'99_Papers/AlalawiZ/Alalawi_2019_Pathways to Good Healthcare Services and Patient Satisfaction An Evolutionary Game Theoretical Appr 1.pdf'
-'99_Papers/AndrasP/Andras_2019_Environmental Harshness and Fitness Improving Innovations 1.pdf'
-'99_Papers/AraujoA/Araujo_2019_Investigating the Origins of Cancer in the Intestinal Crypt with a Gene Network Agent Based Hybrid M 1.pdf'
-'99_Papers/AwadA/Awad_2019_A Hexagonal Cell Automaton Model to Imitate Physarum Polycephalum Competitive Behaviour 1.pdf'
-'99_Papers/BaltieriM/Baltieri_2020_Predictions in the eye of the beholder an active inference account of Watt governors 1.pdf'
-'99_Papers/BartlettS/Bartlett_2019_Attractor Landscapes and Information Processing by Convective Obstacle Flows 1.pdf'
-'99_Papers/BeerR/Beer_2018_On the Origin of Gliders 1.pdf'
-'99_Papers/Ben-JacobE/Ben-Jacob_2006_Self-engineering capabilities of bacteria 1.pdf'
-'99_Papers/BoussardA/Boussard_2021_Adaptive behaviour and learning in slime moulds the role of oscillations 1.pdf'
-'99_Papers/BracciniM/Braccini_2019_A simplified model of chromatin dynamics drives differentiation process in Boolean models of GRN 1.pdf'
-'99_Papers/BrooksN/Brooks_2020_A mechanism to promote social behaviour in household load balancing 1.pdf'
-'99_Papers/CardeQ/Carde_2019_How to reduce a genome ALife as a tool to teach the scientific method to school pupils 1.pdf'
-'99_Papers/CasellaG/Casella_2002_Statistical Inference - Casella, George; Berger, Roger L. 9780534119584 - AbeBooks 1.pdf'
-'99_Papers/ChanB/Chan_2021_The evolutionary diversity of barnacles, with an updated classification of fossil and living forms 1.pdf'
-'99_Papers/CimpeanuT/Cimpeanu_2019_Exogenous Rewards for Promoting Cooperation in Scale-Free Networks 1.pdf'
-'99_Papers/CollenetteJ/Collenette_2019_Stability of Cooperation in Societies of Emotional and Moody Agents 1.pdf'
-'99_Papers/DaleM/Dale_2020_Designing Computational Substrates using Open-Ended Evolution 1.pdf'
-'99_Papers/DaviesP/Davies_2011_Cancer tumors as Metazoa 1.0 tapping genes of ancient ancestors.pdf'
-'99_Papers/DewarA/Dewar_2020_Exploring the robustness of insect-inspired visual navigation for flying robots 1.pdf'
-'99_Papers/DuongM/Duong_2019_On the Expected Number and Distribution of Equilibria in Multi-player Evolutionary Games 1.pdf'
-'99_Papers/FloresD/Flores_1991_Bison Ecology and Bison Diplomacy The Southern Plains from 1800 to 1850 1.pdf'
-'99_Papers/FüchslinR/Füchslin_2019_Simplified Modeling of the Evolution of Skills in a Spatially Resolved Environment 1.pdf'
-'99_Papers/GaborD/Gabor_1971_The Nobel Prize in Physics 1971 1.pdf'
-'99_Papers/GolesE/Goles_2011_Communication complexity and intrinsic universality in cellular automata 1.pdf'
-'99_Papers/GuttenbergN/Guttenberg_2019_Evolutionary rates of information gain and decay in fluctuating environments 1.pdf'
-'99_Papers/HahnC/Hahn_2019_Emergent Escape-based Flocking behavior using Multi-Agent Reinforcement Learning 1.pdf'
-'99_Papers/HanT/Han_2019_Promoting Cooperation through External Interference 1.pdf'
-'99_Papers/HollerS/Holler_2019_Droplet based synthetic biology chemotaxis and interface with biology 1.pdf'
-'99_Papers/IchihashiN/Ichihashi_2018_Oscillating population dynamics and evolution of host and parasitic RNAs in an artificial cell 1.pdf'
-'99_Papers/IchinoseG/Ichinose_2013_Adaptive long-range migration promotes cooperation under tempting conditions 1.pdf'
-'99_Papers/IchinoseG/Ichinose_2014_Invasion of Cooperation in Scale-Free Networks Accumulated vs. Average Payoffs 1.pdf'
-'99_Papers/IchinoseG/Ichinose_2018_Zero-Determinant Strategies in Repeated Prisoner’s Dilemma Games 1.pdf'
-'99_Papers/IizukaH/Iizuka_2015_Applying homeostatic neural controller to multi-legged robot and adaptivity to novel disruptions 1.pdf'
-'99_Papers/IizukaH/Iizuka_2018_Learning of Individual Sensorimotor Mapping to Form Swarm Behavior from Real Fish Data 1.pdf'
-'99_Papers/IizukaH/Iizuka_2019_Hybrid Synthetic Approach to Animal Interaction 1.pdf'
-'99_Papers/IizukaH/Iizuka_2022_Generation of Complex Patterns using Coupled Generative Adversarial Networks 1.pdf'
-'99_Papers/IJzermanH/IJzerman_2020_Use caution when applying behavioural science to policy 1.pdf'
-'99_Papers/IkegamiT/Ikegami_2018_2018 Preface 1.pdf'
-'99_Papers/IkegamiT/Ikegami_2018_Beyond AI A New Epistemology for Artificial Life and Complex Systems, an Introduction to the 2018 A 1.pdf'
-'99_Papers/IkegamiT/Ikegami_2018_The 2018 Conference on Artificial Life (full proceedings pdf) 1.pdf'
-'99_Papers/IlgünA/Ilgün_2021_Bio-Hybrid Systems for Ecosystem Level Effects 1.pdf'
-'99_Papers/ImachiH/Imachi_2020_Isolation of an archaeon at the prokaryote–eukaryote interface 1.pdf'
-'99_Papers/IndenB/Inden_2013_Neural agents can evolve to reproduce sequences of arbitrary length 1.pdf'
-'99_Papers/InfantinoI/Infantino_2013_An Artificial Behavioral Immune System for cognitive robotics 1.pdf'
-'99_Papers/IrwinN/Irwin_2021_Systematic evaluation of horizontal gene transfer between eukaryotes and viruses 1.pdf'
-'99_Papers/IsakssonH/Isaksson_2021_The Consequences of Budding versus Binary Fission on Adaptation and Aging in Primitive Multicellular 1.pdf'
-'99_Papers/IslamM/Islam_2016_Modeling the Evolution of Mimicry 1.pdf'
-'99_Papers/IslamM/Islam_2022_String a programming language for the evolution of ribozymes in a new computational protocell model 1.pdf'
-'99_Papers/ItoT/Ito_2013_Coevolutionary Dynamics Caused by Asymmetries in Predator-Prey and Morphology-Behavior Relationships 1.pdf'
-'99_Papers/ItoT/Ito_2014_Population and Evolutionary Dynamics Based on Predator-Prey Relationship in 3D Physical Simulation 1.pdf'
-'99_Papers/ItoT/Ito_2015_Evolutionary change precedes extinction in eco-evolutionary dynamics based on a 3D virtual predator- 1.pdf'
-'99_Papers/IvanovP/Ivanov_2014_Associating Nearby Robots to Their Voices 1.pdf'
-'99_Papers/IzquierdoE/Izquierdo_2013_Analysis of Ultrastability in Small Dynamical Recurrent Neural Networks 1.pdf'
-'99_Papers/IzquierdoE/Izquierdo_2015_An Integrated Neuromechanical Model of Steering in C. elegans 1.pdf'
-'99_Papers/IzquierdoE/Izquierdo_2016_Propagation of rhythmic dorsoventral wave in a neuromechanical model of locomotion in Caernohabditis 1.pdf'
-'99_Papers/IzquierdoE/Izquierdo_2022_Perpetual Crossers without Sensory Delay Revisiting the Perceptual Crossing Simulation Studies 1.pdf'
-'99_Papers/IzquierdoE/Izquierdo_2022_What does functional connectivity tell us about the behaviorally-functional connectivity of a multif 1.pdf'
-'99_Papers/IzquierdoE/Izquierdo_2024_Evolution of Embodied Agents on a Numerical Cognition Task Sequential Counting 1.pdf'
-'99_Papers/JablonskiD/Jablonski_2022_Evolvability and Macroevolution Overview and Synthesis 1.pdf'
-'99_Papers/JacksonA/Jackson_2013_The Effects of Assortment on Population Structuring Traits on the Evolution of Cooperation 1.pdf'
-'99_Papers/JacksonA/Jackson_2023_Finding Sparse Initialisations using Neuroevolutionary Ticket Search (NeTS) 1.pdf'
-'99_Papers/JacksonB/Jackson_2019_Neuroevolution of Humanoids that Walk Further and Faster with Robust Gaits 1.pdf'
-'99_Papers/JaegerJ/Jaeger_2024_The Fourth Perspective Evolution and Organismal Agency 1.pdf'
-'99_Papers/JahnsJ/Jahns_2018_How the integration of group and individual level selection affects the evolution of cooperation 1.pdf'
-'99_Papers/JainA/Jain_2012_Task decomposition with neuroevolution in extended predator-prey domain 1.pdf'
-'99_Papers/JamborH/Jambor_2024_Ten simple rules for designing graphical abstracts 1.pdf'
-'99_Papers/JankeS/Janke_2015_Practical Fault Tolerant 2D Cellular Automata 1.pdf'
-'99_Papers/JelisavcicM/Jelisavcic_2018_Analysing the Relative Importance of Robot Brains and Bodies 1.pdf'
-'99_Papers/JensenJ/Jensen_2018_Computation in artificial spin ice 1.pdf'
-'99_Papers/JensenJ/Jensen_2020_Reservoir Computing in Artificial Spin Ice 1.pdf'
-'99_Papers/JensenW/Jensen_2014_Design and Analysis of Experiments by Douglas Montgomery A Supplement for Using JMP® 1.pdf'
-'99_Papers/JeongH/Jeong_2015_Complete Genome Sequence of Escherichia coli Strain BL21 1.pdf'
-'99_Papers/JeongH/Jeong_2019_Horizontal gene transfer in human-associated microorganisms inferred by phylogenetic reconstruction 1.pdf'
-'99_Papers/JeschkeJ/Jeschke_2019_Knowledge in the dark scientific challenges and ways forward 1.pdf'
-'99_Papers/JessusC/Jessus_2024_Henri de Lacaze-Duthiers and the ascidian hypothesis 1.pdf'
-'99_Papers/JiangS/Jiang_2023_Simulating Disease Spread During Disaster Scenarios 1.pdf'
-'99_Papers/JiaT/Jia_2021_Liquid Crystal Phase Assembly in Peptide-DNA Coacervates as a Mechanism for Primitive Emergence of S 1.pdf'
-'99_Papers/JImmatSci/JImmatSci_2023_Supernatural Products An Illiterature Review. A compilation of each entrant in our competition. 1.pdf'
-'99_Papers/JoachimczakM/Joachimczak_2012_Brainless Bodies Controlling the Development and Behavior of Multicellular Animats by Gene Regulati 1.pdf'
-'99_Papers/JoachimczakM/Joachimczak_2012_Open Ended Evolution of 3D Multicellular Development Controlled by Gene Regulatory Networks 1.pdf'
-'99_Papers/JoachimczakM/Joachimczak_2013_Controlling development and chemotaxis of soft-bodied multicellular animats with the same gene regul 1.pdf'
-'99_Papers/JoachimczakM/Joachimczak_2014_Fine Grained Artificial Development for Body-Controller Coevolution of Soft-Bodied Animats 1.pdf'
-'99_Papers/JoachimczakM/Joachimczak_2015_From tadpole to frog artificial metamorphosis as a method of evolving self-reconfiguring robots 1.pdf'
-'99_Papers/JoachimczakM/Joachimczak_2016_Spiral autowaves as minimal, distributed gait controllers for soft-bodied animats 1.pdf'
-'99_Papers/JohnsonA/Johnson_2014_More Bang For Your Buck Quorum-Sensing Capabilities Improve the Efficacy of Suicidal Altruism 1.pdf'
-'99_Papers/JohnsonC/Johnson_2014_Active Shape Discrimination with Physical Reservoir Computers 1.pdf'
-'99_Papers/JohnsonK/Johnson_2022_Endosymbiosis or Bust Influence of Ectosymbiosis on Evolution of Obligate Endosymbiosis 1.pdf'
-'99_Papers/JohnsonK/Johnson_2023_Evolution of symbiotic task-based digital genomes ectosymbiosis hastens the evolution of endosymbio 1.pdf'
-'99_Papers/JohnsonW/Johnson_2017_How to Optimize Human Biology 1.pdf'
-'99_Papers/JohnstonC/Johnston_2014_Bacterial transformation distribution, shared mechanisms and divergent control 1.pdf'
-'99_Papers/JolleyB/Jolley_2018_Evolving Robust, Deliberate Motion Planning With a Shallow Convolutional Neural Network 1.pdf'
-'99_Papers/JonesE/Jones_1987_The development of animal cap cells in Xenopus a measure of the start of animal cap competence to f 1.pdf'
-'99_Papers/JoshiN/Joshi_2012_The Minimal Complexity of Adapting Agents Increases with Fitness 1.pdf'
-'99_Papers/JuelB/Juel et al._2019_When is an action caused from within Quantifying the causal chain leading to actions in simulated a 1.pdf'
-'99_Papers/JuelB/Juel_2019_When is an action caused from within Quantifying the causal chain leading to actions in simulated a 1.pdf'
-'99_Papers/JungJ/Jung_2014_An Agent-Based Model of Indirect Minority Influence on Social Change 1.pdf'
-'99_Papers/JékelyG/Jékely_2021_Reafference and the origin of the self in early nervous system evolution 1.pdf'
-'99_Papers/JørgensenM/Jørgensen_2021_SARS-CoV-2 pandemic dynamics and infection tracing in Denmark 1.pdf'
-"./KackerR/Kacker et al._1991_Taguchi's orthogonal arrays are classical designs of experiments 1.pdf", "./KackerR/Kacker_1991_Taguchi's orthogonal arrays are classical designs of experiments 1.pdf", '99_Papers/KadishD/Kadish and Risi_2020_Adapting to a changing environment Simulating the effects of noise on animal sonification 1.pdf'
-'99_Papers/KadishD/Kadish et al._2019_An artificial life approach to studying niche differentiation in soundscape ecology 1.pdf'
-'99_Papers/KadishD/Kadish_2019_An artificial life approach to studying niche differentiation in soundscape ecology 1.pdf'
-'99_Papers/KadishD/Kadish_2020_Adapting to a changing environment Simulating the effects of noise on animal sonification 1.pdf'
-'99_Papers/KahanaA/Kahana et al._2023_Identifying molecular selection using Assembly Theory and closed-loop experiments 1.pdf'
-'99_Papers/KahanaA/Kahana_2023_Identifying molecular selection using Assembly Theory and closed-loop experiments 1.pdf'
-'99_Papers/KaiserT/Kaiser and Hamann_2020_Evolution of Diverse Swarm Behaviors with Minimal Surprise 1.pdf'
-'99_Papers/KaiserT/Kaiser et al._2023_Evolving Dynamic Collective Behaviors by Minimizing Surprise 1.pdf'
-'99_Papers/KaiserT/Kaiser_2020_Evolution of Diverse Swarm Behaviors with Minimal Surprise 1.pdf'
-'99_Papers/KaiserT/Kaiser_2023_Evolving Dynamic Collective Behaviors by Minimizing Surprise 1.pdf'
-'99_Papers/KanagawaY/Kanagawa and Doya_2024_Evolution of Rewards for Food and Motor Action by Simulating Birth and Death 1.pdf'
-'99_Papers/KanagawaY/Kanagawa_2024_Evolution of Rewards for Food and Motor Action by Simulating Birth and Death 1.pdf'
-'99_Papers/KanoT/Kano et al._2017_A brittle star-like robot capable of immediately adapting to unexpected physical damage 1.pdf'
-'99_Papers/KanoT/Kano et al._2018_Decentralized Control Scheme for Swarm Robots with Self-Sacrific 1.pdf'
-'99_Papers/KanoT/Kano et al._2019_Engineering Application of Non-Reciprocal-Interaction-Based (NRIB) Model Swarm Robotic System That 1.pdf'
-'99_Papers/KanoT/Kano et al._2020_Adaptive One-dimensional Crawling Robot Driven by Simple Decentralized Control Mechanism 1.pdf'
-'99_Papers/KanoT/Kano_2017_A brittle star-like robot capable of immediately adapting to unexpected physical damage 1.pdf'
-'99_Papers/KanoT/Kano_2018_Decentralized Control Scheme for Swarm Robots with Self-Sacrific 1.pdf'
-'99_Papers/KanoT/Kano_2019_Engineering Application of Non-Reciprocal-Interaction-Based (NRIB) Model Swarm Robotic System That 1.pdf'
-'99_Papers/KanoT/Kano_2020_Adaptive One-dimensional Crawling Robot Driven by Simple Decentralized Control Mechanism 1.pdf'
-'99_Papers/KarakayaM/Karakaya et al._2021_Acute Citalopram administration alters zebrafish social dynamics in a behavioral teleporting experim 1.pdf'
-'99_Papers/KarakayaM/Karakaya_2021_Acute Citalopram administration alters zebrafish social dynamics in a behavioral teleporting experim 1.pdf'
-'99_Papers/KardashevN/Kardashev_1964_Transmission of Information by Extraterrestrial Civilizations. 1.pdf'
-'99_Papers/KarelinG/Karelin_2024_Floatiles Self-Assembly Based On Cheerios Effect and Aperiodic Monotiles 1.pdf'
-'99_Papers/KargarB/Kargar et al._2021_The effect of selecting for different behavioral traits on the evolved gaits of modular robots 1.pdf'
-'99_Papers/KargarB/Kargar_2021_The effect of selecting for different behavioral traits on the evolved gaits of modular robots 1.pdf'
-'99_Papers/KasashimaH/Kasashima et al._2024_A Deep Learning Approach to Understanding the Integration of Tools into Body Schema 1.pdf'
-'99_Papers/KasashimaH/Kasashima_2024_A Deep Learning Approach to Understanding the Integration of Tools into Body Schema 1.pdf'
-'99_Papers/KatonaA/Katona et al._2021_Quality Evolvability ES Evolving Individuals With a Distribution of Well Performing and Diverse Off 1.pdf'
-'99_Papers/KatonaA/Katona_2021_Quality Evolvability ES Evolving Individuals With a Distribution of Well Performing and Diverse Off 1.pdf'
-'99_Papers/KatoT/Kato et al._2013_Robust Optimization of Adjustable Control Factors Using Particle Swarm Optimization 1.pdf'
-'99_Papers/KatoT/Kato_2013_Robust Optimization of Adjustable Control Factors Using Particle Swarm Optimization 1.pdf'
-'99_Papers/KauffmanL/Kauffman and Buliga_2014_Chemlambda, Universality and Self-Multiplication 1.pdf'
-'99_Papers/KauffmanL/Kauffman_2014_Chemlambda, Universality and Self-Multiplication 1.pdf'
-'99_Papers/KauffmanS/Kauffman and Lehman_2023_Mixed anhydrides at the intersection between peptide and RNA autocatalytic sets evolution of biolog 1.pdf'
-'99_Papers/KauffmanS/Kauffman and Roli_2023_A third transition in science 1.pdf'
-'99_Papers/KauffmanS/Kauffman and Roli_2024_Is the Emergence of Life an Expected Phase Transition in the Evolving Universe 1.pdf'
-'99_Papers/KauffmanS/Kauffman_2023_A third transition in science 1.pdf'
-'99_Papers/KauffmanS/Kauffman_2023_Mixed anhydrides at the intersection between peptide and RNA autocatalytic sets evolution of biolog 1.pdf'
-'99_Papers/KauffmanS/Kauffman_2024_Is the Emergence of Life an Expected Phase Transition in the Evolving Universe 1.pdf'
-'99_Papers/KawaguchiT/Kawaguchi et al._2021_Introducing asymptotics to the state-updating rule in Lenia 1.pdf'
-'99_Papers/KawaguchiT/Kawaguchi_2021_Introducing asymptotics to the state-updating rule in Lenia 1.pdf'
-'99_Papers/KawamuraA/Kawamura et al._2024_Self-propulsion of 3-Phenylpropionaldehyde droplets 1.pdf'
-'99_Papers/KawamuraA/Kawamura_2024_Self-propulsion of 3-Phenylpropionaldehyde droplets 1.pdf'
-'99_Papers/KazakovD/Hutchison_2005_Evolving the Game of Life 1.pdf'
-'99_Papers/KeasarT/Keasar et al._2023_Can sociality facilitate learning of complex tasks Lessons from bees and flowers 1.pdf'
-'99_Papers/KeasarT/Keasar_2023_Can sociality facilitate learning of complex tasks Lessons from bees and flowers 1.pdf'
-'99_Papers/KeijzerF/Keijzer et al._2013_What nervous systems do early evolution, input–output, and the skin brain thesis 1.pdf'
-'99_Papers/KeijzerF/Keijzer_2013_What nervous systems do early evolution, input–output, and the skin brain thesis 1.pdf'
-'99_Papers/KeijzersS/Keijzers et al._2013_Image Similarity Search using a Negative Selection Algorithm 1.pdf'
-'99_Papers/KeijzersS/Keijzers_2013_Image Similarity Search using a Negative Selection Algorithm 1.pdf'
-'99_Papers/KengyelD/Kengyel et al._2013_Influence of a Social Gradient on a Swarm of Agents Controlled by the BEECLUST Algorithm 1.pdf'
-'99_Papers/KengyelD/Kengyel_2013_Influence of a Social Gradient on a Swarm of Agents Controlled by the BEECLUST Algorithm 1.pdf'
-'99_Papers/KennedyK/Kennedy_2018_The agency of women in Frank Herbert’s Dune series. 1.pdf'
-'99_Papers/KhajehabdollahiS/Khajehabdollahi and Witkowski_2018_Critical Learning vs. Evolution Evolutionary Simulation of a Population of Ising-Embodied Neural Ne 1.pdf'
-'99_Papers/KhajehabdollahiS/Khajehabdollahi et al._2021_Reservoir computing with self-organizing neural oscillators 1.pdf'
-'99_Papers/KhajehabdollahiS/Khajehabdollahi et al._2023_Locally adaptive cellular automata for goal-oriented self-organization 1.pdf'
-'99_Papers/KhajehabdollahiS/Khajehabdollahi_2018_Critical Learning vs. Evolution Evolutionary Simulation of a Population of Ising-Embodied Neural Ne 1.pdf'
-'99_Papers/KhajehabdollahiS/Khajehabdollahi_2021_Reservoir computing with self-organizing neural oscillators 1.pdf'
-'99_Papers/KhajehabdollahiS/Khajehabdollahi_2023_Locally adaptive cellular automata for goal-oriented self-organization 1.pdf'
-'99_Papers/KhalufY/Khaluf and Gullipalli_2015_An Efficient Ant Colony System for Edge Detection in Image Processing 1.pdf'
-'99_Papers/KhalufY/Khaluf and Hamann_2019_Modulating Interaction Times in an Artificial Society of Robots 1.pdf'
-'99_Papers/KhalufY/Khaluf and Rammig_2013_Task Allocation Strategy for Time-Constrained Tasks in Robots Swarms 1.pdf'
-'99_Papers/KhalufY/Khaluf and Vandenberghe_2023_How Individual Heterogeneity impacts Spreading Dynamics in Urban Proximity Networks A case-study of 1.pdf'
-'99_Papers/KhalufY/Khaluf_2013_Task Allocation Strategy for Time-Constrained Tasks in Robots Swarms 1.pdf'
-'99_Papers/KhalufY/Khaluf_2015_An Efficient Ant Colony System for Edge Detection in Image Processing 1.pdf'
-'99_Papers/KhalufY/Khaluf_2019_Modulating Interaction Times in an Artificial Society of Robots 1.pdf'
-'99_Papers/KhalufY/Khaluf_2023_How Individual Heterogeneity impacts Spreading Dynamics in Urban Proximity Networks A case-study of 1.pdf'
-'99_Papers/KhanI/Khan and Cañamero_2021_Adaptation-By-Proxy Contagion Effect of Social Buffering in an Artificial Society 1.pdf'
-'99_Papers/KhanI/Khan and Sandom_2022_A Participatory Complex Systems Modelling Approach Towards Rewilding in the UK 1.pdf'
-'99_Papers/KhanI/Khan et al._2020_Modelling the Social Buffering Hypothesis in an Artificial Life Environment 1.pdf'
-'99_Papers/KhanI/Khan_2020_Modelling the Social Buffering Hypothesis in an Artificial Life Environment 1.pdf'
-'99_Papers/KhanI/Khan_2021_Adaptation-By-Proxy Contagion Effect of Social Buffering in an Artificial Society 1.pdf'
-'99_Papers/KhanI/Khan_2022_A Participatory Complex Systems Modelling Approach Towards Rewilding in the UK 1.pdf'
-'99_Papers/KharmaN/Kharma and Buckley_2014_CodeRouge a Project to Evolve Life-like Autonomous Programs 1.pdf'
-'99_Papers/KharmaN/Kharma_2014_CodeRouge a Project to Evolve Life-like Autonomous Programs 1.pdf'
-'99_Papers/KhatizahE/Khatizah et al._2023_A Python-based educational software tool for visualizing bioinformatics alignment algorithms 1.pdf'
-'99_Papers/KhatizahE/Khatizah_2023_A Python-based educational software tool for visualizing bioinformatics alignment algorithms 1.pdf'
-'99_Papers/KhazanovM/Khazanov et al._2013_Exploiting Dynamical Complexity in a Physical Tensegrity Robot to Achieve Locomotion 1.pdf'
-'99_Papers/KhazanovM/Khazanov et al._2014_Evolution of Locomotion on a Physical Tensegrity Robot 1.pdf'
-'99_Papers/KhazanovM/Khazanov_2013_Exploiting Dynamical Complexity in a Physical Tensegrity Robot to Achieve Locomotion 1.pdf'
-'99_Papers/KhazanovM/Khazanov_2014_Evolution of Locomotion on a Physical Tensegrity Robot 1.pdf'
-'99_Papers/KhurmaR/Khurma et al._2021_Salp Swarm Optimization Search Based Feature Selection for Enhanced Phishing Websites Detection 1.pdf'
-'99_Papers/KhurmaR/Khurma_2021_Salp Swarm Optimization Search Based Feature Selection for Enhanced Phishing Websites Detection 1.pdf'
-'99_Papers/KimH/Kim and Sayama_2016_The Relationship between Microscopic and Collective Properties in Gene Regulatory Network-based Morp 1.pdf'
-'99_Papers/KimH/Kim and Sayama_2018_Robustness and Evolvability of Multilayer Gene Regulatory Networks 1.pdf'
-'99_Papers/KimH/Kim et al._2014_Informational Architecture of the Fission Yeast Cell Cycle Regulatory Network 1.pdf'
-'99_Papers/KimH/Kim_2014_Informational Architecture of the Fission Yeast Cell Cycle Regulatory Network 1.pdf'
-'99_Papers/KimH/Kim_2016_The Relationship between Microscopic and Collective Properties in Gene Regulatory Network-based Morp 1.pdf'
-'99_Papers/KimH/Kim_2018_Robustness and Evolvability of Multilayer Gene Regulatory Networks 1.pdf'
-'99_Papers/Kimiz-GebologluI/Kimiz-Gebologlu et al._2020_Development of a serum free medium for HUMIRA ® biosimilar by design of experiment approa 1.pdf'
-'99_Papers/Kimiz-GebologluI/Kimiz-Gebologlu_2020_Development of a serum free medium for HUMIRA ® biosimilar by design of experiment approa 1.pdf'
-'99_Papers/KimN/Kim and Lee_2007_Three-Dimensional Phylogeny Explorer Distinguishing paralogs, lateral transfer, and violation of m 1.pdf'
-'99_Papers/KimN/Kim_2007_Three-Dimensional Phylogeny Explorer Distinguishing paralogs, lateral transfer, and violation of m 1.pdf'
-'99_Papers/KimS/Kim and Lee_2009_Development of serum-free medium supplemented with hydrolysates for the production of therapeutic an 1.pdf'
-'99_Papers/KimS/Kim_2009_Development of serum-free medium supplemented with hydrolysates for the production of therapeutic an 1.pdf'
-'99_Papers/KingD/King et al._2019_Entropy-Based Team Self-Organization with Signal Suppression 1.pdf'
-'99_Papers/KingD/King_2019_Entropy-Based Team Self-Organization with Signal Suppression 1.pdf'
-'99_Papers/KirchenbauerJ/Kirchenbauer et al._2024_A Watermark for Large Language Models 1.pdf'
-'99_Papers/KirchenbauerJ/Kirchenbauer_2024_A Watermark for Large Language Models 1.pdf'
-'99_Papers/KirezciE/Kirezci et al._2020_Projections of global-scale extreme sea levels and resulting episodic coastal flooding over the 21st 1.pdf'
-'99_Papers/KirezciE/Kirezci_2020_Projections of global-scale extreme sea levels and resulting episodic coastal flooding over the 21st 1.pdf'
-'99_Papers/KirkpatrickD/Kirkpatrick and Hintze_2019_The role of ambient noise in the evolution of robust mental representations in cognitive systems 1.pdf'
-'99_Papers/KirkpatrickD/Kirkpatrick and Hintze_2021_Using MAP-Elites to direct the evolution of desired neural characteristics 1.pdf'
-'99_Papers/KirkpatrickD/Kirkpatrick et al._2021_Tracking data flow in digital brains exposes coincidental encryption 1.pdf'
-'99_Papers/KirkpatrickD/Kirkpatrick_2019_The role of ambient noise in the evolution of robust mental representations in cognitive systems 1.pdf'
-'99_Papers/KirkpatrickD/Kirkpatrick_2021_Tracking data flow in digital brains exposes coincidental encryption 1.pdf'
-'99_Papers/KirkpatrickD/Kirkpatrick_2021_Using MAP-Elites to direct the evolution of desired neural characteristics 1.pdf'
-'99_Papers/KirschnerM/Kirschner and Gerhart_1998_Evolvability 1.pdf'
-'99_Papers/KirschnerM/Kirschner_1998_Evolvability 1.pdf'
-'99_Papers/KirshenbaumS/Kirshenbaum_2024_Left out of the Room Where it Happens Barriers to Serving in Senior Congressional Staff Roles May L 1.pdf'
-'99_Papers/KiryazovK/Kiryazov and Lowe_2013_The role of arousal in embodying the cueXdeficit model in multi-resource human-robot interaction 1.pdf'
-'99_Papers/KiryazovK/Kiryazov_2013_The role of arousal in embodying the cueXdeficit model in multi-resource human-robot interaction 1.pdf'
-'99_Papers/Kish Bar-OnK/Kish Bar-On and Lamm_2023_The interplay of social identity and norm psychology in the evolution of human groups 1.pdf'
-'99_Papers/Kish Bar-OnK/Kish Bar-On_2023_The interplay of social identity and norm psychology in the evolution of human groups 1.pdf'
-'99_Papers/KlemmtC/Klemmt and Sugihara_2018_Architectural Design by Cellular Growth Algorithm 1.pdf'
-'99_Papers/KlemmtC/Klemmt_2018_Architectural Design by Cellular Growth Algorithm 1.pdf'
-'99_Papers/KlopferE/Klopfer and Begel_2003_StarLogo under the hood and in the classroom 1.pdf'
-'99_Papers/KlopferE/Klopfer_2003_StarLogo under the hood and in the classroom 1.pdf'
-'99_Papers/KloubL/Kloub et al._2021_Systematic Detection of Large-Scale Multigene Horizontal Transfer in Prokaryotes 1.pdf'
-'99_Papers/KloubL/Kloub_2021_Systematic Detection of Large-Scale Multigene Horizontal Transfer in Prokaryotes 1.pdf'
-'99_Papers/KnibbeC/Knibbe_2014_What Happened to My Genes Insights on Gene Family Dynamics from Digital Genetics Experiments 1.pdf'
-'99_Papers/KnightJ/Knight et al._2019_Insect-Inspired Visual Navigation On-Board an Autonomous Robot Real-World Routes Encoded in a Singl 1.pdf'
-'99_Papers/KnightJ/Knight_2019_Insect-Inspired Visual Navigation On-Board an Autonomous Robot Real-World Routes Encoded in a Singl 1.pdf'
-'99_Papers/KnöspelF/Knöspel et al._2010_Optimization of a serum-free culture medium for mouse embryonic stem cells using design of experimen 1.pdf'
-'99_Papers/KnöspelF/Knöspel_2010_Optimization of a serum-free culture medium for mouse embryonic stem cells using design of experimen 1.pdf'
-'99_Papers/KocherovskyM/Kocherovsky and Banzhaf_2024_Crossover Destructiveness in Cartesian versus Linear Genetic Programming 1.pdf'
-'99_Papers/KocherovskyM/Kocherovsky_2024_Crossover Destructiveness in Cartesian versus Linear Genetic Programming 1.pdf'
-'99_Papers/KojimaH/Kojima and Ikegami_2021_Artificial Cognitive Map System based on Generative Deep Neural Networks 1.pdf'
-'99_Papers/KojimaH/Kojima and Ikegami_2023_Implementation of Lenia as a Reaction-Diffusion System 1.pdf'
-'99_Papers/KojimaH/Kojima_2021_Artificial Cognitive Map System based on Generative Deep Neural Networks 1.pdf'
-'99_Papers/KojimaH/Kojima_2023_Implementation of Lenia as a Reaction-Diffusion System 1.pdf'
-'99_Papers/KojimaK/Kojima et al._2016_Equality seekers or moderate monopolists Social structure affects the evolution of distributive nor 1.pdf'
-'99_Papers/KojimaK/Kojima_2016_Equality seekers or moderate monopolists Social structure affects the evolution of distributive nor 1.pdf'
-'99_Papers/KolezhitskiyY/Kolezhitskiy et al._2020_Dynamical Systems Analysis of a Protocell 1.pdf'
-'99_Papers/KolezhitskiyY/Kolezhitskiy_2020_Dynamical Systems Analysis of a Protocell 1.pdf'
-'99_Papers/KollerC/Koller_2025_Counting Short Trajectories in Elementary Cellular Automata using the Transfer Matrix Method 1.pdf'
-'99_Papers/KomatsuD/Komatsu et al._2013_Construction of a remote-controlled supramolecular micro-crawler 1.pdf'
-'99_Papers/KomatsuD/Komatsu_2013_Construction of a remote-controlled supramolecular micro-crawler 1.pdf'
-'99_Papers/KomosinskiM/Komosinski and Miazga_2019_Measuring properties of movement in populations of evolved 3D agents 1.pdf'
-'99_Papers/KomosinskiM/Komosinski and Miazga_2021_Diversity Control in Evolution of Movement 1.pdf'
-'99_Papers/KomosinskiM/Komosinski_2019_Measuring properties of movement in populations of evolved 3D agents 1.pdf'
-'99_Papers/KomosinskiM/Komosinski_2021_Diversity Control in Evolution of Movement 1.pdf'
-'99_Papers/Komosin´skiM/Komosin´ski_2003_The Framsticks system versatile simulator of 3D agents and their evolution 1.pdf'
-'99_Papers/KooninE/Koonin et al._2001_Horizontal gene transfer in prokaryotes quantification and classification 1.pdf'
-'99_Papers/KooninE/Koonin_2001_Horizontal gene transfer in prokaryotes quantification and classification 1.pdf'
-'99_Papers/KooninE/Koonin_2012_Defining Life An Exercise in Semantics or A Route to Biological Insights 1.pdf'
-'99_Papers/KooninE/Koonin_2016_Horizontal gene transfer essentiality and evolvability in prokaryotes, and roles in evolutionary tr 1.pdf'
-'99_Papers/KoosS/Koos et al._2014_Abstract of “Fast Damage Recovery in Robotics with the T-Resilience Algorithm” 1.pdf'
-'99_Papers/KoosS/Koos_2014_Abstract of “Fast Damage Recovery in Robotics with the T-Resilience Algorithm” 1.pdf'
-'99_Papers/KoreckiM/Korecki et al._2023_aRtificiaL death learning from stories of failure 1.pdf'
-'99_Papers/KoreckiM/Korecki_2023_aRtificiaL death learning from stories of failure 1.pdf'
-'99_Papers/KotrcB/Kotrc and Knoll_2015_Morphospaces and Databases Diatom Diversification through Time 1.pdf'
-'99_Papers/KotrcB/Kotrc_2015_Morphospaces and Databases Diatom Diversification through Time 1.pdf'
-'99_Papers/KoutenskyF/Koutensky et al._2024_Unlocking Nature’s Design through Neural Cellular Automata 1.pdf'
-'99_Papers/KoutenskyF/Koutensky_2024_Unlocking Nature’s Design through Neural Cellular Automata 1.pdf'
-'99_Papers/KovitzB/Kovitz et al._2019_Acclivation of Virtual Fitness Landscapes 1.pdf'
-'99_Papers/KovitzB/Kovitz_2019_Acclivation of Virtual Fitness Landscapes 1.pdf'
-'99_Papers/KowarskyM/Kowarsky et al._2021_Sexual and asexual development two distinct programs producing the same tunicate 1.pdf'
-'99_Papers/KowarskyM/Kowarsky_2021_Sexual and asexual development two distinct programs producing the same tunicate 1.pdf'
-'99_Papers/KozdonK/Kozdon and Bentley_2018_The Evolution of Training Parameters for Spiking Neural Networks with Hebbian Learning 1.pdf'
-'99_Papers/KozdonK/Kozdon and Bentley_2020_Architectural Plasticity in Spiking Neural Networks 1.pdf'
-'99_Papers/KozdonK/Kozdon_2018_The Evolution of Training Parameters for Spiking Neural Networks with Hebbian Learning 1.pdf'
-'99_Papers/KozdonK/Kozdon_2020_Architectural Plasticity in Spiking Neural Networks 1.pdf'
-'99_Papers/Kramer-BottiglioR/Kramer-Bottiglio_2020_From Particles to Parts — Building Artificial Life from Multifunctional Composites 1.pdf'
-'99_Papers/KrastevM/Krastev et al._2016_Emergent Bonding Properties in the Spiky RBN AChem 1.pdf'
-'99_Papers/KrastevM/Krastev_2016_Emergent Bonding Properties in the Spiky RBN AChem 1.pdf'
-'99_Papers/KrawecW/Krawec_2012_On the Emergent Behaviors of a Robot Controlled by a Real-Time Evolving Neural Network 1.pdf'
-"./KrellnerM/Krellner and Han_2020_Putting oneself in everybody's shoes - Pleasing enables indirect reciprocity under private assessmen 1.pdf", '99_Papers/KrellnerM/Krellner and Han_2022_The Last One Standing - Recent Findings on the Feasibility of Indirect Reciprocity under Private As 1.pdf'
-'99_Papers/KrellnerM/Krellner and Han_2024_Evolution of Cooperation via Joint Commitments and Reputation 1.pdf'
-"./KrellnerM/Krellner_2020_Putting oneself in everybody's shoes - Pleasing enables indirect reciprocity under private assessmen 1.pdf", '99_Papers/KrellnerM/Krellner_2022_The Last One Standing - Recent Findings on the Feasibility of Indirect Reciprocity under Private As 1.pdf'
-'99_Papers/KrellnerM/Krellner_2024_Evolution of Cooperation via Joint Commitments and Reputation 1.pdf'
-'99_Papers/KreminskiM/Kreminski_2023_“Generator’s Haunted” A Brief, Spooky Account of Hauntological Effects in the Player Experience of 1.pdf'
-'99_Papers/KunkleD/Kunkle_2003_Automatic Classification of One-Dimensional Cellular Automata 1.pdf'
-'99_Papers/La CavaW/La Cava_2018_Behavioral search drivers and the role of elitism in soft robotics 1.pdf'
-'99_Papers/LaBarT/LaBar_2015_Does self-replication imply evolvability 1.pdf'
-'99_Papers/LabordeZ/Laborde_2023_Spatial Embedding of Edges in a Synaptic Generative Model of C. elegans 1.pdf'
-'99_Papers/LagasseE/Lagasse_2023_Future medicine from molecular pathways to the collective intelligence of the body 1.pdf'
-'99_Papers/LagisettyY/Lagisetty_2023_Binding affinity distributions drive adaptation in GRN evolution 1.pdf'
-'99_Papers/LakhmanK/Lakhman_2014_Evolution, Development and Learning with Predictor Neural Networks 1.pdf'
-'99_Papers/LakshtanovE/Lakshtanov_2006_Entropy of multidimensional cellular automata 1.pdf'
-'99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 1.pdf'
-'99_Papers/LammE/Lamm_2023_Human major transitions from the perspective of distributed adaptations 1.pdf'
-'99_Papers/LangdonW/Langdon_2019_Continuous Long-Term Evolution of Genetic Programming 1.pdf'
-'99_Papers/LangtonC/Langton_1997_Artificial life  an overview 1.pdf'
-'99_Papers/LappanR/Lappan_2024_The atmosphere a transport medium or an active microbial ecosystem 1.pdf'
-'99_Papers/LauH/Lau_2013_Immune-Inspired Error Detection for Multiple Faulty Robots in Swarm Robotics 1.pdf'
-'99_Papers/LauP/Lau_2023_Evolved Eugenics and Reinforcement of “Othering” Renewed Ethico-Legal Perspectives of Genome Editin 1.pdf'
-'99_Papers/LavalP/Laval_1995_Hierarchical object-oriented design of a concurrent, individual-based, model of a pelagic Tunicate b 1.pdf'
-'99_Papers/LavalP/Laval_1996_The representation of space in an object-oriented computational pelagic ecosystem 1.pdf'
-'99_Papers/LavalP/Laval_1997_A virtual mesocosm with artificial salps for exploring the conditions of swarm development in the pe 1.pdf'
-'99_Papers/LavalP/Laval_1998_A LIVE COMPUTER SIMULATION OF SWARM DEVELOPMENT IN SALPA FUSIFORMIS (TUNICATA  THALIACEA) IN THE FR 1.pdf'
-'99_Papers/LaveryT/Lavery_2024_Parallel evolution in an island archipelago revealed by genomic sequencing of Hipposideros leaf-nose 1.pdf'
-'99_Papers/LawsonJ/Lawson_2015_Design and Analysis of Experiments with R 1.pdf'
-"./LazicD/Lazic_2021_Can Robots Inform a Honeybee Colony's Foraging Decision-Making 1.pdf", '99_Papers/Le GoffL/Le Goff_2020_On Pros and Cons of Evolving Topologies with Novelty Search 1.pdf'
-'99_Papers/Le GoffL/Le Goff_2020_Sample and time efficient policy learning with CMA-ES and Bayesian Optimisation 1.pdf'
-'99_Papers/LeasM/Leas_2016_The Prisoners Dilemma, Memory, and the Early Evolution of Intelligence 1.pdf'
-'99_Papers/LedbetterM/Ledbetter_2020_Nanopore Sequencing of an Expanded Genetic Alphabet Reveals High-Fidelity Replication of a Predomina 1.pdf'
-'99_Papers/LeeN/Lee_2013_Modelling the Migration and Maturation of Dendritic Cells for Automatic Optimization of Complex Engi 1.pdf'
-'99_Papers/LeesonP/Leeson_2007_An‐arrgh‐chy The Law and Economics of Pirate Organization 1.pdf'
-'99_Papers/LeeW/Lee_2014_Adaptive Division of Labor in Multi-Robot System with Minimum Task Switching 1.pdf'
-'99_Papers/LeeW/Lee_2014_Task Partitioning Based on Response Threshold Model in Robot Harvesting Task 1.pdf'
-'99_Papers/LegmannR/Legmann_2009_A predictive high‐throughput scale‐down model of monoclonal antibody production in CHO cells 1.pdf'
-'99_Papers/LeijnenS/Leijnen_2016_Exploring Constraint Simulating Self-Organization and Autogenesis in the Autogenic Automaton 1.pdf'
-'99_Papers/LeiQ/Lei_2021_Entropy-Based Classification of Elementary Cellular Automata under Asynchronous Updating An Experim 1.pdf'
-'99_Papers/LeiteA/Leite_2020_Reinforcement learning beyond the Bellman equation Exploring critic objectives using evolution 1.pdf'
-'99_Papers/LeiteA/Leite_2021_Generating reward structures on a parameterized distribution of dynamics tasks 1.pdf'
-'99_Papers/LeitherS/Leither_2023_Interaction Strengths Affect Whether Ecological Networks Promote the Initiation of Egalitarian Major 1.pdf'
-'99_Papers/LeivaI/Leiva_2024_On elementary cellular automata asymptotic (a)synchronism sensitivity and complexity 1.pdf'
-'99_Papers/LeN/Le_2019_Organic Selection and Social Heredity The Original Baldwin Effect Revisited 1.pdf'
-'99_Papers/LessinD/Lessin_2014_Adopting Morphology to Multiple Tasks in Evolved Virtual Creatures 1.pdf'
-'99_Papers/LessinD/Lessin_2015_Soft-Body Muscles for Evolved Virtual Creatures The Next Step on a Bio-Mimetic Path to Meaningful M 1.pdf'
-'99_Papers/LeungB/Leung_2018_Modular Neural Control for Bio-Inspired Walking and Ball Rolling of a Dung Beetle-Like Robot 1.pdf'
-'99_Papers/LevensonR/Levenson_2015_Pigeons (Columba livia) as Trainable Observers of Pathology and Radiology Breast Cancer Images 1.pdf'
-'99_Papers/LevinD/Levin_2015_Volatility and spatial distribution of resources determine ant foraging strategies 1.pdf'
-'99_Papers/LevinM/Levin_2015_Reading and Writing the Morphogenetic Code 1.pdf'
-'99_Papers/LevinM/Levin_2019_The Computational Boundary of a “Self” Developmental Bioelectricity Drives Multicellularity and Sca 1.pdf'
-'99_Papers/LevinM/Levin_2020_Robot Cancer what the bioelectrics of embryogenesis and regeneration can teach us about unconventio 1.pdf'
-'99_Papers/LevinM/Levin_2021_Bioelectric signaling Reprogrammable circuits underlying embryogenesis, regeneration, and cancer 1.pdf'
-'99_Papers/LevinM/Levin_2021_Bioelectrical approaches to cancer as a problem of the scaling of the cellular self 1.pdf'
-'99_Papers/LevinM/Levin_2021_Life, death, and self Fundamental questions of primitive cognition viewed through the lens of body 1.pdf'
-'99_Papers/LevinM/Levin_2021_Technological Approach to Mind Everywhere (TAME) an experimentally-grounded framework for understan 1.pdf'
-'99_Papers/LevinM/Levin_2021_Uncovering cognitive similarities and differences, conservation and innovation 1.pdf'
-'99_Papers/LevinM/Levin_2023_Bioelectric networks the cognitive glue enabling evolutionary scaling from physiology to mind 1.pdf'
-'99_Papers/LevinM/Levin_2023_Collective Intelligence of Morphogenesis as a Teleonomic Process 1.pdf'
-'99_Papers/LevinM/Levin_2023_Darwin’s agential materials evolutionary implications of multiscale competency in developmental bio 1.pdf'
-'99_Papers/LevinM/Levin_2023_INSTITUTION AND LOCATION 1.pdf'
-'99_Papers/LevinM/Levin_2024_Self-improvising Memory a perspective on memories as agential, dynamically-reinterpreting cognitive 1.pdf'
-'99_Papers/LeãoP/Leão_2024_Asgard archaea defense systems and their roles in the origin of eukaryotic immunity 1.pdf'
-'99_Papers/LimS/Lim_2019_All in Good Team Optimising Team Personalities for Different Dynamic Problems and Task Types 1.pdf'
-'99_Papers/LomasA/Lomas_2019_Morphogenetic Vase Forms 1.pdf'
-'99_Papers/MaccallumR/Maccallum_2022_Automated Ligand Design in Simulated Molecular Docking 1.pdf'
-'99_Papers/MadridY/Madrid_2016_Complexity and Structural Properties in Scale-free Networks 1.pdf'
-'99_Papers/MadrugaB/Madruga_2024_Open-source, high performance miniature multiphoton microscopy systems for freely behaving animals 1.pdf'
-'99_Papers/MaekawaT/Maekawa_2013_Heterogeneity and complexity of a simulated terrestrial environment account for superiority of the a 1.pdf'
-'99_Papers/MaggioriniD/Maggiorini_2013_Follow the Leader a Scalable Approach for Realistic Group Behavior of Roaming NPCs in MMO Games 1.pdf'
-'99_Papers/MahayekhiM/Mahayekhi_2014_n Enhanced Artificial Ecosystem Investigating Emergence of Ecological Niches 1.pdf'
-'99_Papers/MaherJ/Maher_2013_The Influence of Cell Type on Artificial Development 1.pdf'
-'99_Papers/MajeedH/Majeed_2015_Reincarnation, Predestination and Moral Responsibility Critical Issues in Akan Philosophy 1.pdf'
-'99_Papers/MalletJ/Mallet_2016_How reticulated are species 1.pdf'
-'99_Papers/MalloD/Mallo_2016_SimPhy Phylogenomic Simulation of Gene, Locus, and Species Trees 1.pdf'
-'99_Papers/MalyshevD/Malyshev_2009_PCR with an Expanded Genetic Alphabet 1.pdf'
-'99_Papers/MalyshevD/Malyshev_2014_A semi-synthetic organism with an expanded genetic alphabet 1.pdf'
-'99_Papers/MalyshevD/Malyshev_2015_The expanded genetic alphabet 1.pdf'
-'99_Papers/MamiyaA/Mamiya_2019_Only Two Types of Strategies Enforce Linear Payoff Relationships Under Observation Errors in Repeate 1.pdf'
-'99_Papers/MamiyaA/Mamiya_2020_Zero-Determinant Strategies under Observation Errors 1.pdf'
-'99_Papers/ManK/Man_2020_Truth or Consequences Homeostatic Self-Regulation in Artificial Neural Networks 1.pdf'
-'99_Papers/MannaS/Manna_1990_Systematics of transitions of square-lattice cellular automata 1.pdf'
-'99_Papers/MansourC/Mansour_2019_Robotic models of obstacle avoidance in bats assessing the benefit of acoustic gaze scanning in com 1.pdf'
-'99_Papers/ManziniG/Manzini_1999_A complete and efficiently computable topological classification of D-dimensional linear cell 1.pdf'
-'99_Papers/MarianoP/Mariano_2013_Population Dynamics of Centipede Game using an Energy Based Evolutionary Algorithm 1.pdf'
-'99_Papers/MarianoP/Mariano_2018_Evolving robot controllers for a bio-hybrid system 1.pdf'
-'99_Papers/MarijuánP/Marijuán_2021_From Molecular Recognition to the Vehicles of Evolutionary Complexity An Informational Approach 1.pdf'
-'99_Papers/MaritanM/Maritan_2022_Building Structural Models of a Whole Mycoplasma Cell 1.pdf'
-'99_Papers/MarkovitchO/Markovitch_2020_Competition Dynamics in a Chemical System of Self-replicating Macrocycles 1.pdf'
-'99_Papers/MarriottC/Marriott_2014_The Effect of Social Learning on Individual Learning 1.pdf'
-'99_Papers/MarriottC/Marriott_2015_Emergence-focused design in complex system simulation 1.pdf'
-'99_Papers/MarriottC/Marriott_2016_Divergent Cumulative Cultural Evolution 1.pdf'
-'99_Papers/MarriottC/Marriott_2016_Finding a Mate With Eusocial Skills 1.pdf'
-'99_Papers/MarriottC/Marriott_2016_Modeling the Evolution of Gene-Culture Divergence 1.pdf'
-'99_Papers/MarriottC/Marriott_2023_Domestication syndrome via indirect selection in simulated cereal grains 1.pdf'
-'99_Papers/MarshallS/Marshall_2021_Identifying molecules as biosignatures with assembly theory and mass spectrometry 1.pdf'
-'99_Papers/MartinC/Martin_2019_Probabilistic Program Neurogenesis 1.pdf'
-'99_Papers/MartinezG/Martinez_2015_Majority Gates and Circular Computation in Slime Mould 1.pdf'
-'99_Papers/MartinW/Martin_1999_Mosaic bacterial chromosomes a challenge en route to a tree of genomes 1.pdf'
-'99_Papers/MartinW/Martin_2017_Late Mitochondrial Origin Is an Artifact 1.pdf'
-'99_Papers/MartiusG/Martius_2015_Quantifying Self-Organizing Behavior of Autonomous Robots 1.pdf'
-'99_Papers/MartiusG/Martius_2016_Self-organized control of an tendon driven arm by differential extrinsic plasticity 1.pdf'
-'99_Papers/Martínez-SánchezÁ/Martínez-Sánchez_2024_Decomposing causality into its synergistic, unique, and redundant components 1.pdf'
-'99_Papers/MartínezG/Martínez_2012_COMPLEX DYNAMICS OF ELEMENTARY CELLULAR AUTOMATA EMERGING FROM CHAOTIC RULES 1.pdf'
-'99_Papers/MaruyamaN/Maruyama_2014_Designing a Robotic Platform Controlled by Cultured Neural Cells 1.pdf'
-'99_Papers/MaruyamaN/Maruyama_2021_Studying Embodied Cognition in the Android Alter 1.pdf'
-'99_Papers/MaruyamaN/Maruyama_2023_Emergence of Differentiation of DeterministicStochastic Behavior in Ants’ Collectives 1.pdf'
-'99_Papers/Marín-ParedesR/Marín-Paredes_2023_A Metagenome from a Steam Vent in Los Azufres Geothermal Field Shows an Abundance of Thermoplasmatal 1.pdf'
-'99_Papers/MaselkoJ/Maselko_2013_Experimental studied on growing chemical organisms 1.pdf'
-'99_Papers/MashR/Mash_2024_Curious POET Intrinsic Motivation Improves Exploration Efficiency 1.pdf'
-'99_Papers/MastroianniA/Mastroianni_2023_The illusion of moral decline 1.pdf'
-'99_Papers/MasumoriA/Masumori_2014_Designing a Passive Folding String Device with an Electromagnet 1.pdf'
-'99_Papers/MasumoriA/Masumori_2015_Emergence of Sense-Making Behavior by the Stimulus Avoidance Principle Experiments on a Robot Behav 1.pdf'
-'99_Papers/MasumoriA/Masumori_2018_Autonomous Regulation of Self and Non-Self by Stimulation Avoidance in Embodied Neural Networks 1.pdf'
-'99_Papers/MasumoriA/Masumori_2020_Evolving Acoustic Niche Differentiation and Soundscape Complexity Based on Intraspecific Sound Commu 1.pdf'
-'99_Papers/MasumoriA/Masumori_2023_Embodied Time Perception Effects of Time Delay on Hand Motion and Time Estimation in Virtual Enviro 1.pdf'
-'99_Papers/MasumoriA/Masumori_2023_Exploring Multi-Level Inter-Scale Information Flow in Large-Scale Boids Model 1.pdf'
-'99_Papers/MasumoriA/Masumori_2024_Plasticity in Swarming Behavior Introducing Social Network to Boids Model 1.pdf'
-'99_Papers/MathisC/Mathis_2019_Autocatalysis in a Hierarchically Organized Inorganic Chemical Network 1.pdf'
-'99_Papers/MatsubayashiH/Matsubayashi_2013_In vitro Synthesis of Membrane Protein Machinery toward the Construction of Artificial Cell 1.pdf'
-'99_Papers/MatsukaT/Matsuka_2012_Effects of Individual Differences on Knowledge and Wisdom of Society A Social Modeling Approach 1.pdf'
-'99_Papers/MatsumuraT/Matsumura_2022_Empathic Active Inference Active Inference with Empathy Mechanism for Socially Behaved Artificial A 1.pdf'
-'99_Papers/MatsumuraT/Matsumura_2023_Social Emotional Valence for Regulating Empathy in Active Inference 1.pdf'
-'99_Papers/MatthewsD/Matthews_2020_Crowd grounding finding semantic and behavioral alignment through human robot interaction. 1.pdf'
-'99_Papers/MatthewsM/Matthews_2024_Craftax A Lightning-Fast Benchmark for Open-Ended Reinforcement Learning 1.pdf'
-'99_Papers/MaullV/Maull_2024_Planetary regulation on the test tube a synthetic Daisyworld 1.pdf'
-'99_Papers/MaX/Ma_2014_Hierarchical Heterogeneuous Particle Swarm Optimization 1.pdf'
-'99_Papers/Mayer-BaconC/Mayer-Bacon_2021_Evolution as a Guide to Designing xeno Amino Acid Alphabets 1.pdf'
-'99_Papers/MayerC/Mayer_2022_The Art of Clean Code 1.pdf'
-'99_Papers/Maynard SmithJ/Maynard Smith_2010_The major transitions in evolution 1.pdf'
-'99_Papers/MayneR/Mayne_2015_Slime mould actin sensoriactuation networks topology, dynamic transformations and models of self-as 1.pdf'
-'99_Papers/MazacS/Mazac_2014_On Bootstrapping Sensori-Motor Patterns for a Constructivist Learning System in Continuous Environme 1.pdf'
-'99_Papers/MańkoM/Mańko_2023_Establishing Bilateral Symmetry in Hydrozoan Planula Larvae, a Review of Siphonophore Early Developm 1.pdf'
-'99_Papers/McAteeT/McAtee_2019_Complex Systems and Artificial Life A Decade’s Overview 1.pdf'
-'99_Papers/McCaskillJ/McCaskill_2016_Microarray of programmable electrochemically active elements 1.pdf'
-'99_Papers/McClainC/McClain_2019_Alligators in the abyss The first experimental reptilian food fall in the deep ocean 1.pdf'
-'99_Papers/McCormackJ/McCormack_2003_Evolving sonic ecosystems 1.pdf'
-'99_Papers/McCreeryH/McCreery_2022_Hysteresis stabilizes dynamic control of self-assembled army ant constructions 1.pdf'
-'99_Papers/McDermottJ/McDermott_2010_The unwanted guests of hermits A global review of the diversity and natural history of hermit crab 1.pdf'
-'99_Papers/McDonaldD/McDonald_2023_Greengenes2 unifies microbial data in a single reference tree 1.pdf'
-'99_Papers/McGeeR/McGee_2022_The cost of information acquisition by natural selection 1.pdf'
-'99_Papers/McGheeG/McGhee_2011_Convergent evolution limited forms most beautiful 1.pdf'
-'99_Papers/McInerneyJ/McInerney_2011_The Public Goods Hypothesis for the evolution of life on Earth 1.pdf'
-'99_Papers/McKaigJ/McKaig_2024_Chapter 10 Planetary Protection—History, Science, and the Future 1.pdf'
-'99_Papers/McLaughlinM/McLaughlin_2014_The Effect of Network Structure on the Spatial Coevolutionary GA 1.pdf'
-'99_Papers/McLaughlinM/McLaughlin_2014_The Effects of Elitism on Spatial Coevolutionary GAs 1.pdf'
-'99_Papers/McMullinB/McMullin_2015_The Overshoot Curriculum Artificial Life, Education and the Human Predicament 1.pdf'
-'99_Papers/McShaffreyC/McShaffrey_2023_Decomposing Viability Space 1.pdf'
-'99_Papers/McShaffreyC/McShaffrey_2024_Dissecting Viability in Multi-Agent Systems 1.pdf'
-'99_Papers/McSheaD/McShea_2023_Four reasons for scepticism about a human major transition in social individuality 1.pdf'
-'99_Papers/MedernachD/Medernach_2015_Evolutionary Progress in Heterogenous Cellular Automata (HetCA) 1.pdf'
-'99_Papers/MedernachD/Medernach_2016_Evolution of Heterogeneous Cellular Automata in Fluctuating Environments 1.pdf'
-'99_Papers/MedinaA/Medina_2023_Evolving Flying Machines in Minecraft Using Quality Diversity 1.pdf'
-'99_Papers/MedranoJ/Medrano_2024_Chemical autonomous agents reverse-engineering artificial life under the free-energy principle 1.pdf'
-'99_Papers/MehraP/Mehra_2023_Evolution of Pleiotropy and Epistasis in a Gene Regulatory Network 1.pdf'
-'99_Papers/MellmannH/Mellmann_2020_Anticipation as a Mechanism for Complex Behavior in Artificial Agents 1.pdf'
-'99_Papers/MeltzerP/Meltzer_2018_Interacting Hierarchical Dynamic Networks 1.pdf'
-'99_Papers/MentaA/Menta_2024_Latent Neural Cellular Automata for Resource-Efficient Image Restoration 1.pdf'
-'99_Papers/MereloJ/Merelo_2016_The human in the loop volunteer-based metacomputers as a socio-technical system 1.pdf'
-'99_Papers/MerrittK/Merritt_2014_Autonomous assembly of synthetic oligonucleotides built from an expanded DNA alphabet. Total synthes 1.pdf'
-'99_Papers/MertzaniA/Mertzani_2024_Power-Sensitive Design using Higher-Order Cybernetics Patterns 1.pdf'
-'99_Papers/MesoudiA/Mesoudi_2006_Towards a unified science of cultural evolution 1.pdf'
-'99_Papers/MesoudiA/Mesoudi_2011_Cultural evolution How Darwinian theory can explain human culture and synthesize the social science 1.pdf'
-'99_Papers/MesoudiA/Mesoudi_2018_What is cumulative cultural evolution 1.pdf'
-"./MezaT/Meza_2011_The Bene Gesserit in Frank Herbert's Dune. An Analysis 1.pdf", '99_Papers/MichaelL/Michael_2012_An Ant-Based Computer Simulator 1.pdf'
-'99_Papers/Michel-Rolph Trouillot/Michel-Rolph Trouillot_1995_Silencing The Past Power And The Production Of History 1.pdf'
-'99_Papers/MikamiT/Mikami_2019_A reaction-diffusion model for simulating the oscillatory expansion of biofilms 1.pdf'
-'99_Papers/MikamiT/Mikami_2020_One-dimensional reaction-diffusion model for intra- and inter- biofilm oscillatory dynamics 1.pdf'
-'99_Papers/MiletitchR/Miletitch_2013_Information Aggregation Mechanisms in Social Odometry 1.pdf'
-'99_Papers/MillerS/Miller_2015_A Minimal Model for the Emergence of Cooperation in Randomly Growing Networks 1.pdf'
-'99_Papers/MillsR/Mills_2015_Coordination of collective behaviours in spatially separated agents 1.pdf'
-'99_Papers/MiloccoL/Milocco_2023_A data-driven framework to model the organism–environment system 1.pdf'
-'99_Papers/MimaR/Mima_2021_A Monocular Depth Estimator to Perceive Crater Illusions in Several Characteristics 1.pdf'
-'99_Papers/Minh-ThaiT/Minh-Thai_2021_A Comprehensive Conceptual and Computational Dynamics Framework for Autonomous Regeneration Systems 1.pdf'
-'99_Papers/MirasK/Miras_2018_Effects of Selection Preferences on Evolved Robot Morphologies and Behaviors 1.pdf'
-'99_Papers/MirasK/Miras_2019_The impact of environmental history on evolved robot properties 1.pdf'
-'99_Papers/MirasK/Miras_2021_The Impact of Early-death on Phenotypically Plastic Robots that Evolve in Changing Environments 1.pdf'
-'99_Papers/MisevicD/Misevic_2012_Effects of public good properties on the evolution of cooperation 1.pdf'
-'99_Papers/MisevicD/Misevic_2013_In silico evolution of transferable genetic elements 1.pdf'
-'99_Papers/MisevicD/Misevic_2016_Shape matters in cooperation 1.pdf'
-'99_Papers/MitohS/Mitoh_2021_Extreme autotomy and whole-body regeneration in photosynthetic sea slugs 1.pdf'
-'99_Papers/MitsuiM/Mitsui_2014_Applying Self-Assembly and Self-Reconfigurable Systems for Printer 1.pdf'
-'99_Papers/MitteroeckerP/Mitteroecker_2009_The Concept of Morphospaces in Evolutionary and Developmental Biology Mathematics and Metaphors 1.pdf'
-'99_Papers/MixL/Mix_2024_Foreword to the Astrobiology Primer 3.0 1.pdf'
-'99_Papers/MiyagawaD/Miyagawa_2020_How Lévy Flights Triggered by Presence of Defectors Affect Evolution of Cooperation in Spatial Games 1.pdf'
-'99_Papers/MiyashitaS/Miyashita_2013_Multi-Crease Self-Folding by Uniform Heating 1.pdf'
-'99_Papers/MizunoK/Mizuno_2022_Novel multicellular prokaryote discovered next to an underground stream 1.pdf'
-'99_Papers/MoczekA/Moczek_2023_Agency in living systems 1.pdf'
-'99_Papers/MohidM/Mohid_2015_Evolving Robot Controllers Using Carbon Nanotubes 1.pdf'
-'99_Papers/MohseniA/Mohseni_2023_Three-Dimensional Printing of Living Mycelium-Based Composites Material Compositions, Workflows, an 1.pdf'
-'99_Papers/MolteniC/Molteni_2024_Tangled genetic relationships within the Fusobacterium genus 1.pdf'
-'99_Papers/MontalvaM/Montalva_2014_Attraction Basins in a Lac Operon Model Under Different Update Schedules 1.pdf'
-'99_Papers/MontanierJ/Montanier_2013_Evolution of Altruism and Spatial Dispersion an Artificial Evolutionary Ecology Approach 1.pdf'
-'99_Papers/MonteroM/Montero_2024_Meta-Learning an Evolvable Developmental Encoding 1.pdf'
-'99_Papers/Montes de OcaM/Montes de Oca_2014_A Continuous-Time Binary Consensus Protocol with Hysteretic Units Applied to the Density Classificat 1.pdf'
-'99_Papers/MontiM/Monti_2015_Achieving Closure in Enzymes in Artificial Chemistries 1.pdf'
-'99_Papers/MooreD/Moore_2017_Cancer as a disorder of patterning information computational and biophysical perspectives on the ca 1.pdf'
-'99_Papers/MooreD/Moore_2018_Pattern Regeneration in Coupled Networks 1.pdf'
-'99_Papers/MooreD/Moore_2019_Inferring a Graph’s Topology from Games Played on It 1.pdf'
-'99_Papers/MooreJ/Moore_2013_Exploring the Role of the Tail in Bipedal Hopping through Computational Evolution 1.pdf'
-'99_Papers/MooreJ/Moore_2014_Hold the Spot Evolution of Generalized Station Keeping for an Aquatic Robot 1.pdf'
-'99_Papers/MooreJ/Moore_2014_Investigating Modular Coupling of Morphology and Control with Digital Muscles 1.pdf'
-'99_Papers/MooreJ/Moore_2015_Evaluating the Effect of a Flexible Spine on the Evolution of Quadrupedal Gaits 1.pdf'
-'99_Papers/MooreJ/Moore_2018_How computational thought experiments can improve our understanding of the genetic architecture of c 1.pdf'
-'99_Papers/MooreJ/Moore_2018_Tiebreaks and Diversity Isolating Effects in Lexicase Selection 1.pdf'
-'99_Papers/MooreJ/Moore_2019_Improve Quadrupedal Locomotion with Actuated or Passive Joints 1.pdf'
-'99_Papers/MooreJ/Moore_2019_The Limits of Lexicase Selection in an Evolutionary Robotics Task 1.pdf'
-'99_Papers/MooreJ/Moore_2020_When Specialists Transition to Generalists Evolutionary Pressure in Lexicase Selection 1.pdf'
-'99_Papers/MooreJ/Moore_2021_Objective Sampling Strategies for Generalized Locomotion Behavior with Lexicase Selection 1.pdf'
-'99_Papers/MooreJ/Moore_2021_Supervision and Evolution Pretraining Neural Networks for Quadrupedal Locomotion 1.pdf'
-'99_Papers/MooreJ/Moore_2023_Fitness Agnostic Adaptive Sampling Lexicase Selection 1.pdf'
-'99_Papers/MoralesA/Morales_2019_Self-optimization in a Hopfield neural network based on the C. elegans connectome 1.pdf'
-'99_Papers/MoranE/Moran_2000_A systematic approach to the validation of process control parameters for monoclonal antibody produc 1.pdf'
-'99_Papers/MoranN/Moran_2018_Coevolutionary Neural Population Models 1.pdf'
-'99_Papers/MoranT/Moran_2013_The Origin of Money An Agent-Based Model 1.pdf'
-'99_Papers/MordvintsevA/Mordvintsev_2020_Growing Neural Cellular Automata 1.pdf'
-'99_Papers/MordvintsevA/Mordvintsev_2020_Thread Differentiable Self-organizing Systems 1.pdf'
-'99_Papers/MordvintsevA/Mordvintsev_2021_Differentiable Programming of Reaction-Diffusion Patterns 1.pdf'
-'99_Papers/MordvintsevA/Mordvintsev_2022_Growing Isotropic Neural Cellular Automata 1.pdf'
-'99_Papers/MordvintsevA/Mordvintsev_2024_Emergent Multiscale Structures and Generative Potential of Isotropic Neural Cellular Automata 1.pdf'
-'99_Papers/MoreiraD/Moreira_2000_Molecular phylogeny pitfalls and progress 1.pdf'
-'99_Papers/MorenoM/Moreno_2022_Exploring Evolved Multicellular Life Histories in a Open-Ended Digital Evolution System 1.pdf'
-'99_Papers/MorenoM/Moreno_2022_Hereditary Stratigraphy Genome Annotations to Enable Phylogenetic Inference over Distributed Popula 1.pdf'
-'99_Papers/MorenoM/Moreno_2022_hstrat a Python Package for phylogenetic inference on distributed digital evolution populations 1.pdf'
-'99_Papers/MorenoM/Moreno_2023_Toward Phylogenetic Inference of Evolutionary Dynamics at Scale 1.pdf'
-'99_Papers/MorenoM/Moreno_2024_Trackable Agent-based Evolution Models at Wafer Scale 1.pdf'
-'99_Papers/MoriH/Mori_2013_Emergence of diverse behaviors from interactions between nonlinear oscillator complex networks and a 1.pdf'
-'99_Papers/MoriH/Mori_2018_Information integration in a globally coupled chaotic system 1.pdf'
-'99_Papers/MorozL/Moroz_2021_Neural versus alternative integrative systems molecular insights into origins of neurotransmitters 1.pdf'
-'99_Papers/MosleyL/Mosley_2019_Analyzing Evolution of Avian Influenza using detailed Genotypic and Antigenic Models and Phylodynami 1.pdf'
-'99_Papers/MostofiK/Mostofi_2024_Practice of neurosurgery on Saturn 1.pdf'
-'99_Papers/MotenF/Moten_2004_The University and the Undercommons SEVEN THESES 1.pdf'
-'99_Papers/MottesF/Mottes_2023_In silico morphogenetic engineering with differentiable programming 1.pdf'
-'99_Papers/MouretJ/Mouret_2014_Abstract of “On the Relationship between Generative Encodings, Regularity, and Learning Abilities w 1.pdf'
-'99_Papers/MouretJ/Mouret_2015_Illuminating search spaces by mapping elites 1.pdf'
-'99_Papers/MuehlenbachsA/Muehlenbachs_2015_Malignant Transformation of Hymenolepis nana in a Human Host 1.pdf'
-'99_Papers/Muñoz-GambaA/Muñoz-Gamba_2021_Molecular characterization of mosquitoes (Diptera Culicidae) from the Colombian rainforest 1.pdf'
-'99_Papers/Muñoz-NortesT/Muñoz-Nortes_2014_Symmetry, asymmetry, and the cell cycle in plants known knowns and some known unknowns 1.pdf'
-'99_Papers/MöllerJ/Gowder_2017_Model-Based Design of Process Strategies for Cell Culture Bioprocesses State of the Art and New Per 1.pdf'
-'99_Papers/MöllerM/Möller_2023_Emergence of common concepts, symmetries and conformity in agent groups—an information-theoretic mod 1.pdf'
-'99_Papers/MüllerA/Müller_2015_Do it yourself (DIY) liquid handling robot for evolutionary search exploration 1.pdf'
-'99_Papers/MüllerP/Müller_2013_Identification of cryptic Anopheles mosquito species by molecular protein profiling 1.pdf'
-'99_Papers/MüllerV/Müller_2017_What Is Morphological Computation On How the Body Contributes to Cognition and Control 1.pdf'
-'99_Papers/OrgelL/Orgel_2000_Self-organizing biochemical cycles 1.pdf'
-'99_Papers/PentzJ/Pentz_2022_Clonal development, not aggregation, drives the transition to multicellularity in an isogenic model 1.pdf'
-'99_Papers/PerretC/Perret_2019_Being a leader or being the leader The evolution of institutionalised hierarchy 1.pdf'
-'99_Papers/RaimbaultJ/Raimbault_2019_Generating urban morphologies at large scales 1.pdf'
-'99_Papers/RieglerB/Riegler_2019_On information-optimal scripting of actions 1.pdf'
-'99_Papers/SabathielS/Sabathiel_2020_Emerging Representations for Counting in a Neural Network Agent Interacting with a Multimodal Enviro 1.pdf'
-'99_Papers/SantosF/Santos_2019_Fairness in Multiplayer Ultimatum Games Through Moderate Responder Selection 1.pdf'
-'99_Papers/ScheideggerS/Scheidegger_2019_Optimizing Radiation Therapy Treatments by Exploring Tumour Ecosystem Dynamics in – silico 1.pdf'
-'99_Papers/SilvermanE/Silverman_2019_Convolutional Neural Networks for Cellular Automata Classification 1.pdf'
-'99_Papers/SinapayenL/Sinapayen_2019_DNN Architecture for High Performance Prediction on Natural Videos Loses Submodule’s Ability to Lear 1.pdf'
-'99_Papers/St. LuceS/St. Luce_2020_Phase Spaces of the Strategy Evolution in the El Farol Bar Problem 1.pdf'
-'99_Papers/TalaminiJ/Talamini_2019_Evolutionary Synthesis of Sensing Controllers for Voxel-based Soft Robots 1.pdf'
-'99_Papers/WahbyM/Wahby_2019_Collective Change Detection Adaptivity to Dynamic Swarm Densities and Light Conditions in Robot Swa 1.pdf'
-'99_Papers/WilliamsL/Williams_2019_Towards Complex Artificial Life 1.pdf'
-'99_Papers/ClawsonW/Clawson_2023_Endless forms most beautiful 2.0 teleonomy and the bioengineering of chimaeric and synthetic organi.pdf'
-'99_Papers/JuelB/Juel_2019_When is an action caused from within Quantifying the causal chain leading to actions in simulated a 2.pdf'
-'99_Papers/KardashevN/Kardashev_1964_Transmission of Information by Extraterrestrial Civilizations. 2.pdf'
-'99_Papers/KarelinG/Karelin_2024_Floatiles Self-Assembly Based On Cheerios Effect and Aperiodic Monotiles 2.pdf'
-'99_Papers/KennedyK/Kennedy_2018_The agency of women in Frank Herbert’s Dune series. 2.pdf'
-'99_Papers/KhalufY/Khaluf and Hamann_2019_Modulating Interaction Times in an Artificial Society of Robots 2.pdf'
-'99_Papers/KhalufY/Khaluf_2019_Modulating Interaction Times in an Artificial Society of Robots 2.pdf'
-'99_Papers/KirshenbaumS/Kirshenbaum_2024_Left out of the Room Where it Happens Barriers to Serving in Senior Congressional Staff Roles May L 2.pdf'
-'99_Papers/KlemmtC/Klemmt and Sugihara_2018_Architectural Design by Cellular Growth Algorithm 2.pdf'
-'99_Papers/KlopferE/Klopfer and Begel_2003_StarLogo under the hood and in the classroom 2.pdf'
-'99_Papers/KloubL/Kloub et al._2021_Systematic Detection of Large-Scale Multigene Horizontal Transfer in Prokaryotes 2.pdf'
-'99_Papers/KnibbeC/Knibbe_2014_What Happened to My Genes Insights on Gene Family Dynamics from Digital Genetics Experiments 2.pdf'
-'99_Papers/KnightJ/Knight et al._2019_Insect-Inspired Visual Navigation On-Board an Autonomous Robot Real-World Routes Encoded in a Singl 2.pdf'
-'99_Papers/KnöspelF/Knöspel et al._2010_Optimization of a serum-free culture medium for mouse embryonic stem cells using design of experimen 2.pdf'
-'99_Papers/KocherovskyM/Kocherovsky and Banzhaf_2024_Crossover Destructiveness in Cartesian versus Linear Genetic Programming 2.pdf'
-'99_Papers/KojimaH/Kojima and Ikegami_2021_Artificial Cognitive Map System based on Generative Deep Neural Networks 2.pdf'
-'99_Papers/KojimaH/Kojima and Ikegami_2023_Implementation of Lenia as a Reaction-Diffusion System 2.pdf'
-'99_Papers/KojimaK/Kojima et al._2016_Equality seekers or moderate monopolists Social structure affects the evolution of distributive nor 2.pdf'
-'99_Papers/KolezhitskiyY/Kolezhitskiy et al._2020_Dynamical Systems Analysis of a Protocell 2.pdf'
-'99_Papers/KomatsuD/Komatsu et al._2013_Construction of a remote-controlled supramolecular micro-crawler 2.pdf'
-'99_Papers/KomosinskiM/Komosinski and Miazga_2019_Measuring properties of movement in populations of evolved 3D agents 2.pdf'
-'99_Papers/KomosinskiM/Komosinski and Miazga_2021_Diversity Control in Evolution of Movement 2.pdf'
-'99_Papers/Komosin´skiM/Komosin´ski_2003_The Framsticks system versatile simulator of 3D agents and their evolution 2.pdf'
-'99_Papers/KooninE/Koonin et al._2001_Horizontal gene transfer in prokaryotes quantification and classification 2.pdf'
-'99_Papers/KooninE/Koonin_2012_Defining Life An Exercise in Semantics or A Route to Biological Insights 2.pdf'
-'99_Papers/KooninE/Koonin_2016_Horizontal gene transfer essentiality and evolvability in prokaryotes, and roles in evolutionary tr 2.pdf'
-'99_Papers/KoosS/Koos et al._2014_Abstract of “Fast Damage Recovery in Robotics with the T-Resilience Algorithm” 2.pdf'
-'99_Papers/KoreckiM/Korecki et al._2023_aRtificiaL death learning from stories of failure 2.pdf'
-'99_Papers/KotrcB/Kotrc and Knoll_2015_Morphospaces and Databases Diatom Diversification through Time 2.pdf'
-'99_Papers/KoutenskyF/Koutensky et al._2024_Unlocking Nature’s Design through Neural Cellular Automata 2.pdf'
-'99_Papers/KovitzB/Kovitz et al._2019_Acclivation of Virtual Fitness Landscapes 2.pdf'
-'99_Papers/KowarskyM/Kowarsky et al._2021_Sexual and asexual development two distinct programs producing the same tunicate 2.pdf'
-'99_Papers/KozdonK/Kozdon and Bentley_2018_The Evolution of Training Parameters for Spiking Neural Networks with Hebbian Learning 2.pdf'
-'99_Papers/KozdonK/Kozdon and Bentley_2020_Architectural Plasticity in Spiking Neural Networks 2.pdf'
-'99_Papers/Kramer-BottiglioR/Kramer-Bottiglio_2020_From Particles to Parts — Building Artificial Life from Multifunctional Composites 2.pdf'
-'99_Papers/KrastevM/Krastev et al._2016_Emergent Bonding Properties in the Spiky RBN AChem 2.pdf'
-'99_Papers/KrastevM/Krastev_2016_Emergent Bonding Properties in the Spiky RBN AChem 2.pdf'
-'99_Papers/KrawecW/Krawec_2012_On the Emergent Behaviors of a Robot Controlled by a Real-Time Evolving Neural Network 2.pdf'
-"./KrellnerM/Krellner and Han_2020_Putting oneself in everybody's shoes - Pleasing enables indirect reciprocity under private assessmen 2.pdf", '99_Papers/KrellnerM/Krellner and Han_2022_The Last One Standing - Recent Findings on the Feasibility of Indirect Reciprocity under Private As 2.pdf'
-'99_Papers/KrellnerM/Krellner and Han_2024_Evolution of Cooperation via Joint Commitments and Reputation 2.pdf'
-"./KrellnerM/Krellner_2020_Putting oneself in everybody's shoes - Pleasing enables indirect reciprocity under private assessmen 2.pdf", '99_Papers/KrellnerM/Krellner_2022_The Last One Standing - Recent Findings on the Feasibility of Indirect Reciprocity under Private As 2.pdf'
-'99_Papers/KrellnerM/Krellner_2024_Evolution of Cooperation via Joint Commitments and Reputation 2.pdf'
-'99_Papers/KreminskiM/Kreminski_2023_“Generator’s Haunted” A Brief, Spooky Account of Hauntological Effects in the Player Experience of 2.pdf'
-'99_Papers/La CavaW/La Cava_2018_Behavioral search drivers and the role of elitism in soft robotics 2.pdf'
-'99_Papers/LaBarT/LaBar_2015_Does self-replication imply evolvability 2.pdf'
-'99_Papers/LabordeZ/Laborde_2023_Spatial Embedding of Edges in a Synaptic Generative Model of C. elegans 2.pdf'
-'99_Papers/LagasseE/Lagasse_2023_Future medicine from molecular pathways to the collective intelligence of the body 2.pdf'
-'99_Papers/LagisettyY/Lagisetty_2023_Binding affinity distributions drive adaptation in GRN evolution 2.pdf'
-'99_Papers/LakhmanK/Lakhman_2014_Evolution, Development and Learning with Predictor Neural Networks 2.pdf'
-'99_Papers/LakshtanovE/Lakshtanov_2006_Entropy of multidimensional cellular automata 2.pdf'
-'99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 2.pdf'
-'99_Papers/LammE/Lamm_2023_Human major transitions from the perspective of distributed adaptations 2.pdf'
-'99_Papers/LangdonW/Langdon_2019_Continuous Long-Term Evolution of Genetic Programming 2.pdf'
-'99_Papers/LangtonC/Langton_1997_Artificial life  an overview 2.pdf'
-'99_Papers/LappanR/Lappan_2024_The atmosphere a transport medium or an active microbial ecosystem 2.pdf'
-'99_Papers/LauH/Lau_2013_Immune-Inspired Error Detection for Multiple Faulty Robots in Swarm Robotics 2.pdf'
-'99_Papers/LauP/Lau_2023_Evolved Eugenics and Reinforcement of “Othering” Renewed Ethico-Legal Perspectives of Genome Editin 2.pdf'
-'99_Papers/LavalP/Laval_1995_Hierarchical object-oriented design of a concurrent, individual-based, model of a pelagic Tunicate b 2.pdf'
-'99_Papers/LavalP/Laval_1996_The representation of space in an object-oriented computational pelagic ecosystem 2.pdf'
-'99_Papers/LavalP/Laval_1997_A virtual mesocosm with artificial salps for exploring the conditions of swarm development in the pe 2.pdf'
-'99_Papers/LavalP/Laval_1998_A LIVE COMPUTER SIMULATION OF SWARM DEVELOPMENT IN SALPA FUSIFORMIS (TUNICATA  THALIACEA) IN THE FR 2.pdf'
-'99_Papers/LaveryT/Lavery_2024_Parallel evolution in an island archipelago revealed by genomic sequencing of Hipposideros leaf-nose 2.pdf'
-'99_Papers/LawsonJ/Lawson_2015_Design and Analysis of Experiments with R 2.pdf'
-"./LazicD/Lazic_2021_Can Robots Inform a Honeybee Colony's Foraging Decision-Making 2.pdf", '99_Papers/Le GoffL/Le Goff_2020_On Pros and Cons of Evolving Topologies with Novelty Search 2.pdf'
-'99_Papers/Le GoffL/Le Goff_2020_Sample and time efficient policy learning with CMA-ES and Bayesian Optimisation 2.pdf'
-'99_Papers/LeasM/Leas_2016_The Prisoners Dilemma, Memory, and the Early Evolution of Intelligence 2.pdf'
-'99_Papers/LedbetterM/Ledbetter_2020_Nanopore Sequencing of an Expanded Genetic Alphabet Reveals High-Fidelity Replication of a Predomina 2.pdf'
-'99_Papers/LeeN/Lee_2013_Modelling the Migration and Maturation of Dendritic Cells for Automatic Optimization of Complex Engi 2.pdf'
-'99_Papers/LeesonP/Leeson_2007_An‐arrgh‐chy The Law and Economics of Pirate Organization 2.pdf'
-'99_Papers/LeeW/Lee_2014_Adaptive Division of Labor in Multi-Robot System with Minimum Task Switching 2.pdf'
-'99_Papers/LeeW/Lee_2014_Task Partitioning Based on Response Threshold Model in Robot Harvesting Task 2.pdf'
-'99_Papers/LegmannR/Legmann_2009_A predictive high‐throughput scale‐down model of monoclonal antibody production in CHO cells 2.pdf'
-'99_Papers/LeijnenS/Leijnen_2016_Exploring Constraint Simulating Self-Organization and Autogenesis in the Autogenic Automaton 2.pdf'
-'99_Papers/LeiQ/Lei_2021_Entropy-Based Classification of Elementary Cellular Automata under Asynchronous Updating An Experim 2.pdf'
-'99_Papers/LeiteA/Leite_2020_Reinforcement learning beyond the Bellman equation Exploring critic objectives using evolution 2.pdf'
-'99_Papers/LeiteA/Leite_2021_Generating reward structures on a parameterized distribution of dynamics tasks 2.pdf'
-'99_Papers/LeitherS/Leither_2023_Interaction Strengths Affect Whether Ecological Networks Promote the Initiation of Egalitarian Major 2.pdf'
-'99_Papers/LeivaI/Leiva_2024_On elementary cellular automata asymptotic (a)synchronism sensitivity and complexity 2.pdf'
-'99_Papers/LeN/Le_2019_Organic Selection and Social Heredity The Original Baldwin Effect Revisited 2.pdf'
-'99_Papers/LessinD/Lessin_2014_Adopting Morphology to Multiple Tasks in Evolved Virtual Creatures 2.pdf'
-'99_Papers/LessinD/Lessin_2015_Soft-Body Muscles for Evolved Virtual Creatures The Next Step on a Bio-Mimetic Path to Meaningful M 2.pdf'
-'99_Papers/LeungB/Leung_2018_Modular Neural Control for Bio-Inspired Walking and Ball Rolling of a Dung Beetle-Like Robot 2.pdf'
-'99_Papers/LevensonR/Levenson_2015_Pigeons (Columba livia) as Trainable Observers of Pathology and Radiology Breast Cancer Images 2.pdf'
-'99_Papers/LevinD/Levin_2015_Volatility and spatial distribution of resources determine ant foraging strategies 2.pdf'
-'99_Papers/LevinM/Levin_2015_Reading and Writing the Morphogenetic Code 2.pdf'
-'99_Papers/LevinM/Levin_2019_The Computational Boundary of a “Self” Developmental Bioelectricity Drives Multicellularity and Sca 2.pdf'
-'99_Papers/LevinM/Levin_2020_Robot Cancer what the bioelectrics of embryogenesis and regeneration can teach us about unconventio 2.pdf'
-'99_Papers/LevinM/Levin_2021_Bioelectric signaling Reprogrammable circuits underlying embryogenesis, regeneration, and cancer 2.pdf'
-'99_Papers/LevinM/Levin_2021_Bioelectrical approaches to cancer as a problem of the scaling of the cellular self 2.pdf'
-'99_Papers/LevinM/Levin_2021_Life, death, and self Fundamental questions of primitive cognition viewed through the lens of body 2.pdf'
-'99_Papers/LevinM/Levin_2021_Technological Approach to Mind Everywhere (TAME) an experimentally-grounded framework for understan 2.pdf'
-'99_Papers/LevinM/Levin_2021_Uncovering cognitive similarities and differences, conservation and innovation 2.pdf'
-'99_Papers/LevinM/Levin_2023_Bioelectric networks the cognitive glue enabling evolutionary scaling from physiology to mind 2.pdf'
-'99_Papers/LevinM/Levin_2023_Collective Intelligence of Morphogenesis as a Teleonomic Process 2.pdf'
-'99_Papers/LevinM/Levin_2023_Darwin’s agential materials evolutionary implications of multiscale competency in developmental bio 2.pdf'
-'99_Papers/LevinM/Levin_2023_INSTITUTION AND LOCATION 2.pdf'
-'99_Papers/LevinM/Levin_2024_Self-improvising Memory a perspective on memories as agential, dynamically-reinterpreting cognitive 2.pdf'
-'99_Papers/LeãoP/Leão_2024_Asgard archaea defense systems and their roles in the origin of eukaryotic immunity 2.pdf'
-'99_Papers/McCormackJ/McCormack_2003_Evolving sonic ecosystems 2.pdf'
-'99_Papers/MooreJ/Moore_2019_The Limits of Lexicase Selection in an Evolutionary Robotics Task 2.pdf'
-'99_Papers/MooreJ/Moore_2020_When Specialists Transition to Generalists Evolutionary Pressure in Lexicase Selection 2.pdf'
-'99_Papers/MosleyL/Mosley_2019_Analyzing Evolution of Avian Influenza using detailed Genotypic and Antigenic Models and Phylodynami 2.pdf'
-'99_Papers/MostofiK/Mostofi_2024_Practice of neurosurgery on Saturn 2.pdf'
-'99_Papers/MotenF/Moten_2004_The University and the Undercommons SEVEN THESES 2.pdf'
-'99_Papers/MottesF/Mottes_2023_In silico morphogenetic engineering with differentiable programming 2.pdf'
-'99_Papers/MouretJ/Mouret_2014_Abstract of “On the Relationship between Generative Encodings, Regularity, and Learning Abilities w 2.pdf'
-'99_Papers/MouretJ/Mouret_2015_Illuminating search spaces by mapping elites 2.pdf'
-'99_Papers/MuehlenbachsA/Muehlenbachs_2015_Malignant Transformation of Hymenolepis nana in a Human Host 2.pdf'
-'99_Papers/Muñoz-GambaA/Muñoz-Gamba_2021_Molecular characterization of mosquitoes (Diptera Culicidae) from the Colombian rainforest 2.pdf'
-'99_Papers/Muñoz-NortesT/Muñoz-Nortes_2014_Symmetry, asymmetry, and the cell cycle in plants known knowns and some known unknowns 2.pdf'
-'99_Papers/MüllerA/Müller_2015_Do it yourself (DIY) liquid handling robot for evolutionary search exploration 2.pdf'
-'99_Papers/MüllerP/Müller_2013_Identification of cryptic Anopheles mosquito species by molecular protein profiling 2.pdf'
-'99_Papers/MüllerV/Müller_2017_What Is Morphological Computation On How the Body Contributes to Cognition and Control 2.pdf'
-'99_Papers/JuelB/Juel_2019_When is an action caused from within Quantifying the causal chain leading to actions in simulated a 3.pdf'
-'99_Papers/KhalufY/Khaluf and Hamann_2019_Modulating Interaction Times in an Artificial Society of Robots 3.pdf'
-'99_Papers/KhalufY/Khaluf_2019_Modulating Interaction Times in an Artificial Society of Robots 3.pdf'
-'99_Papers/KnibbeC/Knibbe_2014_What Happened to My Genes Insights on Gene Family Dynamics from Digital Genetics Experiments 3.pdf'
-'99_Papers/Komosin´skiM/Komosin´ski_2003_The Framsticks system versatile simulator of 3D agents and their evolution 3.pdf'
-'99_Papers/KooninE/Koonin_2012_Defining Life An Exercise in Semantics or A Route to Biological Insights 3.pdf'
-'99_Papers/KooninE/Koonin_2016_Horizontal gene transfer essentiality and evolvability in prokaryotes, and roles in evolutionary tr 3.pdf'
-'99_Papers/Kramer-BottiglioR/Kramer-Bottiglio_2020_From Particles to Parts — Building Artificial Life from Multifunctional Composites 3.pdf'
-'99_Papers/KrastevM/Krastev et al._2016_Emergent Bonding Properties in the Spiky RBN AChem 3.pdf'
-'99_Papers/KrastevM/Krastev_2016_Emergent Bonding Properties in the Spiky RBN AChem 3.pdf'
-'99_Papers/KrawecW/Krawec_2012_On the Emergent Behaviors of a Robot Controlled by a Real-Time Evolving Neural Network 3.pdf'
-"./KrellnerM/Krellner and Han_2020_Putting oneself in everybody's shoes - Pleasing enables indirect reciprocity under private assessmen 3.pdf", '99_Papers/KrellnerM/Krellner and Han_2022_The Last One Standing - Recent Findings on the Feasibility of Indirect Reciprocity under Private As 3.pdf'
-'99_Papers/KrellnerM/Krellner and Han_2024_Evolution of Cooperation via Joint Commitments and Reputation 3.pdf'
-"./KrellnerM/Krellner_2020_Putting oneself in everybody's shoes - Pleasing enables indirect reciprocity under private assessmen 3.pdf", '99_Papers/KrellnerM/Krellner_2022_The Last One Standing - Recent Findings on the Feasibility of Indirect Reciprocity under Private As 3.pdf'
-'99_Papers/KrellnerM/Krellner_2024_Evolution of Cooperation via Joint Commitments and Reputation 3.pdf'
-'99_Papers/KreminskiM/Kreminski_2023_“Generator’s Haunted” A Brief, Spooky Account of Hauntological Effects in the Player Experience of 3.pdf'
-'99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 3.pdf'
-'99_Papers/LangdonW/Langdon_2019_Continuous Long-Term Evolution of Genetic Programming 3.pdf'
-'99_Papers/LeijnenS/Leijnen_2016_Exploring Constraint Simulating Self-Organization and Autogenesis in the Autogenic Automaton 3.pdf'
-'99_Papers/LeiQ/Lei_2021_Entropy-Based Classification of Elementary Cellular Automata under Asynchronous Updating An Experim 3.pdf'
-'99_Papers/LeiteA/Leite_2020_Reinforcement learning beyond the Bellman equation Exploring critic objectives using evolution 3.pdf'
-'99_Papers/LeiteA/Leite_2021_Generating reward structures on a parameterized distribution of dynamics tasks 3.pdf'
-'99_Papers/LeitherS/Leither_2023_Interaction Strengths Affect Whether Ecological Networks Promote the Initiation of Egalitarian Major 3.pdf'
-'99_Papers/LeivaI/Leiva_2024_On elementary cellular automata asymptotic (a)synchronism sensitivity and complexity 3.pdf'
-'99_Papers/LessinD/Lessin_2014_Adopting Morphology to Multiple Tasks in Evolved Virtual Creatures 3.pdf'
-'99_Papers/LessinD/Lessin_2015_Soft-Body Muscles for Evolved Virtual Creatures The Next Step on a Bio-Mimetic Path to Meaningful M 3.pdf'
-'99_Papers/LeungB/Leung_2018_Modular Neural Control for Bio-Inspired Walking and Ball Rolling of a Dung Beetle-Like Robot 3.pdf'
-'99_Papers/LevensonR/Levenson_2015_Pigeons (Columba livia) as Trainable Observers of Pathology and Radiology Breast Cancer Images 3.pdf'
-'99_Papers/LevinD/Levin_2015_Volatility and spatial distribution of resources determine ant foraging strategies 3.pdf'
-'99_Papers/LevinM/Levin_2015_Reading and Writing the Morphogenetic Code 3.pdf'
-'99_Papers/LevinM/Levin_2019_The Computational Boundary of a “Self” Developmental Bioelectricity Drives Multicellularity and Sca 3.pdf'
-'99_Papers/LevinM/Levin_2020_Robot Cancer what the bioelectrics of embryogenesis and regeneration can teach us about unconventio 3.pdf'
-'99_Papers/LevinM/Levin_2021_Bioelectric signaling Reprogrammable circuits underlying embryogenesis, regeneration, and cancer 3.pdf'
-'99_Papers/LevinM/Levin_2021_Bioelectrical approaches to cancer as a problem of the scaling of the cellular self 3.pdf'
-'99_Papers/LevinM/Levin_2021_Life, death, and self Fundamental questions of primitive cognition viewed through the lens of body 3.pdf'
-'99_Papers/LevinM/Levin_2021_Technological Approach to Mind Everywhere (TAME) an experimentally-grounded framework for understan 3.pdf'
-'99_Papers/LevinM/Levin_2021_Uncovering cognitive similarities and differences, conservation and innovation 3.pdf'
-'99_Papers/LevinM/Levin_2023_Bioelectric networks the cognitive glue enabling evolutionary scaling from physiology to mind 3.pdf'
-'99_Papers/LevinM/Levin_2023_Collective Intelligence of Morphogenesis as a Teleonomic Process 3.pdf'
-'99_Papers/LevinM/Levin_2023_Darwin’s agential materials evolutionary implications of multiscale competency in developmental bio 3.pdf'
-'99_Papers/LevinM/Levin_2023_INSTITUTION AND LOCATION 3.pdf'
-'99_Papers/LevinM/Levin_2024_Self-improvising Memory a perspective on memories as agential, dynamically-reinterpreting cognitive 3.pdf'
-'99_Papers/MixL/Mix_2024_Foreword to the Astrobiology Primer 3.0 1.pdf'
-'99_Papers/MixL/Mix_2024_Foreword to the Astrobiology Primer 3.0.pdf'
-'99_Papers/MooreJ/Moore_2019_The Limits of Lexicase Selection in an Evolutionary Robotics Task 3.pdf'
-'99_Papers/MooreJ/Moore_2020_When Specialists Transition to Generalists Evolutionary Pressure in Lexicase Selection 3.pdf'
-'99_Papers/SchaibleM/Schaible_2024_Chapter 1 The Astrobiology Primer 3.0.pdf'
-'99_Papers/KrastevM/Krastev et al._2016_Emergent Bonding Properties in the Spiky RBN AChem 4.pdf'
-'99_Papers/KrawecW/Krawec_2012_On the Emergent Behaviors of a Robot Controlled by a Real-Time Evolving Neural Network 4.pdf'
-"./KrellnerM/Krellner and Han_2020_Putting oneself in everybody's shoes - Pleasing enables indirect reciprocity under private assessmen 4.pdf", '99_Papers/KrellnerM/Krellner and Han_2022_The Last One Standing - Recent Findings on the Feasibility of Indirect Reciprocity under Private As 4.pdf'
-'99_Papers/KrellnerM/Krellner and Han_2024_Evolution of Cooperation via Joint Commitments and Reputation 4.pdf'
-'99_Papers/KreminskiM/Kreminski_2023_“Generator’s Haunted” A Brief, Spooky Account of Hauntological Effects in the Player Experience of 4.pdf'
-'99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 4.pdf'
-'99_Papers/LangdonW/Langdon_2019_Continuous Long-Term Evolution of Genetic Programming 4.pdf'
-'99_Papers/LevinM/Levin_2015_Reading and Writing the Morphogenetic Code 4.pdf'
-'99_Papers/LevinM/Levin_2019_The Computational Boundary of a “Self” Developmental Bioelectricity Drives Multicellularity and Sca 4.pdf'
-'99_Papers/LevinM/Levin_2020_Robot Cancer what the bioelectrics of embryogenesis and regeneration can teach us about unconventio 4.pdf'
-'99_Papers/LevinM/Levin_2021_Bioelectric signaling Reprogrammable circuits underlying embryogenesis, regeneration, and cancer 4.pdf'
-'99_Papers/LevinM/Levin_2021_Bioelectrical approaches to cancer as a problem of the scaling of the cellular self 4.pdf'
-'99_Papers/LevinM/Levin_2021_Life, death, and self Fundamental questions of primitive cognition viewed through the lens of body 4.pdf'
-'99_Papers/LevinM/Levin_2021_Technological Approach to Mind Everywhere (TAME) an experimentally-grounded framework for understan 4.pdf'
-'99_Papers/LevinM/Levin_2021_Uncovering cognitive similarities and differences, conservation and innovation 4.pdf'
-'99_Papers/LevinM/Levin_2023_Bioelectric networks the cognitive glue enabling evolutionary scaling from physiology to mind 4.pdf'
-'99_Papers/LevinM/Levin_2023_Collective Intelligence of Morphogenesis as a Teleonomic Process 4.pdf'
-'99_Papers/LevinM/Levin_2023_Darwin’s agential materials evolutionary implications of multiscale competency in developmental bio 4.pdf'
-'99_Papers/LevinM/Levin_2024_Self-improvising Memory a perspective on memories as agential, dynamically-reinterpreting cognitive 4.pdf'
-'99_Papers/KrastevM/Krastev et al._2016_Emergent Bonding Properties in the Spiky RBN AChem 5.pdf'
-'99_Papers/KrawecW/Krawec_2012_On the Emergent Behaviors of a Robot Controlled by a Real-Time Evolving Neural Network 5.pdf'
-"./KrellnerM/Krellner and Han_2020_Putting oneself in everybody's shoes - Pleasing enables indirect reciprocity under private assessmen 5.pdf", '99_Papers/KrellnerM/Krellner and Han_2022_The Last One Standing - Recent Findings on the Feasibility of Indirect Reciprocity under Private As 5.pdf'
-'99_Papers/KrellnerM/Krellner and Han_2024_Evolution of Cooperation via Joint Commitments and Reputation 5.pdf'
-'99_Papers/KreminskiM/Kreminski_2023_“Generator’s Haunted” A Brief, Spooky Account of Hauntological Effects in the Player Experience of 5.pdf'
-'99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 5.pdf'
-'99_Papers/LangdonW/Langdon_2019_Continuous Long-Term Evolution of Genetic Programming 5.pdf'
-'99_Papers/LevinM/Levin_2021_Uncovering cognitive similarities and differences, conservation and innovation 5.pdf'
-'99_Papers/LevinM/Levin_2023_Bioelectric networks the cognitive glue enabling evolutionary scaling from physiology to mind 5.pdf'
-'99_Papers/KrastevM/Krastev et al._2016_Emergent Bonding Properties in the Spiky RBN AChem 6.pdf'
-'99_Papers/KrawecW/Krawec_2012_On the Emergent Behaviors of a Robot Controlled by a Real-Time Evolving Neural Network 6.pdf'
-"./KrellnerM/Krellner and Han_2020_Putting oneself in everybody's shoes - Pleasing enables indirect reciprocity under private assessmen 6.pdf", '99_Papers/KrellnerM/Krellner and Han_2022_The Last One Standing - Recent Findings on the Feasibility of Indirect Reciprocity under Private As 6.pdf'
-'99_Papers/KrellnerM/Krellner and Han_2024_Evolution of Cooperation via Joint Commitments and Reputation 6.pdf'
-'99_Papers/KreminskiM/Kreminski_2023_“Generator’s Haunted” A Brief, Spooky Account of Hauntological Effects in the Player Experience of 6.pdf'
-'99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 6.pdf'
-'99_Papers/LevinM/Levin_2021_Uncovering cognitive similarities and differences, conservation and innovation 6.pdf'
-'99_Papers/LevinM/Levin_2023_Bioelectric networks the cognitive glue enabling evolutionary scaling from physiology to mind 6.pdf'
-'99_Papers/KrawecW/Krawec_2012_On the Emergent Behaviors of a Robot Controlled by a Real-Time Evolving Neural Network 7.pdf'
-"./KrellnerM/Krellner and Han_2020_Putting oneself in everybody's shoes - Pleasing enables indirect reciprocity under private assessmen 7.pdf", '99_Papers/KrellnerM/Krellner and Han_2022_The Last One Standing - Recent Findings on the Feasibility of Indirect Reciprocity under Private As 7.pdf'
-'99_Papers/KrellnerM/Krellner and Han_2024_Evolution of Cooperation via Joint Commitments and Reputation 7.pdf'
-'99_Papers/KreminskiM/Kreminski_2023_“Generator’s Haunted” A Brief, Spooky Account of Hauntological Effects in the Player Experience of 7.pdf'
-'99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 7.pdf'
-'99_Papers/LevinM/Levin_2023_Bioelectric networks the cognitive glue enabling evolutionary scaling from physiology to mind 7.pdf'
-'99_Papers/KrawecW/Krawec_2012_On the Emergent Behaviors of a Robot Controlled by a Real-Time Evolving Neural Network 8.pdf'
-"./KrellnerM/Krellner and Han_2020_Putting oneself in everybody's shoes - Pleasing enables indirect reciprocity under private assessmen 8.pdf", '99_Papers/KrellnerM/Krellner and Han_2022_The Last One Standing - Recent Findings on the Feasibility of Indirect Reciprocity under Private As 8.pdf'
-'99_Papers/KrellnerM/Krellner and Han_2024_Evolution of Cooperation via Joint Commitments and Reputation 8.pdf'
-'99_Papers/KreminskiM/Kreminski_2023_“Generator’s Haunted” A Brief, Spooky Account of Hauntological Effects in the Player Experience of 8.pdf'
-'99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 8.pdf'
-'99_Papers/LevinM/Levin_2023_Bioelectric networks the cognitive glue enabling evolutionary scaling from physiology to mind 8.pdf'
-'99_Papers/KrawecW/Krawec_2012_On the Emergent Behaviors of a Robot Controlled by a Real-Time Evolving Neural Network 9.pdf'
-"./KrellnerM/Krellner and Han_2020_Putting oneself in everybody's shoes - Pleasing enables indirect reciprocity under private assessmen 9.pdf", '99_Papers/KrellnerM/Krellner and Han_2022_The Last One Standing - Recent Findings on the Feasibility of Indirect Reciprocity under Private As 9.pdf'
-'99_Papers/KrellnerM/Krellner and Han_2024_Evolution of Cooperation via Joint Commitments and Reputation 9.pdf'
-'99_Papers/KreminskiM/Kreminski_2023_“Generator’s Haunted” A Brief, Spooky Account of Hauntological Effects in the Player Experience of 9.pdf'
-'99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 9.pdf'
-'99_Papers/LevinM/Levin_2023_Bioelectric networks the cognitive glue enabling evolutionary scaling from physiology to mind 9.pdf'
-'99_Papers/KrawecW/Krawec_2012_On the Emergent Behaviors of a Robot Controlled by a Real-Time Evolving Neural Network 10.pdf'
-'99_Papers/KreminskiM/Kreminski_2023_“Generator’s Haunted” A Brief, Spooky Account of Hauntological Effects in the Player Experience of 10.pdf'
-'99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 10.pdf'
-'99_Papers/KrawecW/Krawec_2012_On the Emergent Behaviors of a Robot Controlled by a Real-Time Evolving Neural Network 11.pdf'
-'99_Papers/KreminskiM/Kreminski_2023_“Generator’s Haunted” A Brief, Spooky Account of Hauntological Effects in the Player Experience of 11.pdf'
-'99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 11.pdf'
-'99_Papers/KrawecW/Krawec_2012_On the Emergent Behaviors of a Robot Controlled by a Real-Time Evolving Neural Network 12.pdf'
-'99_Papers/KreminskiM/Kreminski_2023_“Generator’s Haunted” A Brief, Spooky Account of Hauntological Effects in the Player Experience of 12.pdf'
+WindowsPath('99_Papers/AkinciK/Akinci_2019_Evolving Recurrent Neural Network Controllers by Incremental Fitness Shaping 1.pdf')
+WindowsPath('99_Papers/AlalawiZ/Alalawi_2019_Pathways to Good Healthcare Services and Patient Satisfaction An Evolutionary Game Theoretical Appr 1.pdf')
+WindowsPath('99_Papers/AndrasP/Andras_2019_Environmental Harshness and Fitness Improving Innovations 1.pdf')
+WindowsPath('99_Papers/AraujoA/Araujo_2019_Investigating the Origins of Cancer in the Intestinal Crypt with a Gene Network Agent Based Hybrid M 1.pdf')
+WindowsPath('99_Papers/AwadA/Awad_2019_A Hexagonal Cell Automaton Model to Imitate Physarum Polycephalum Competitive Behaviour 1.pdf')
+WindowsPath('99_Papers/BaltieriM/Baltieri_2020_Predictions in the eye of the beholder an active inference account of Watt governors 1.pdf')
+WindowsPath('99_Papers/BartlettS/Bartlett_2019_Attractor Landscapes and Information Processing by Convective Obstacle Flows 1.pdf')
+WindowsPath('99_Papers/BeerR/Beer_2018_On the Origin of Gliders 1.pdf')
+WindowsPath('99_Papers/Ben-JacobE/Ben-Jacob_2006_Self-engineering capabilities of bacteria 1.pdf')
+WindowsPath('99_Papers/BoussardA/Boussard_2021_Adaptive behaviour and learning in slime moulds the role of oscillations 1.pdf')
+WindowsPath('99_Papers/BracciniM/Braccini_2019_A simplified model of chromatin dynamics drives differentiation process in Boolean models of GRN 1.pdf')
+WindowsPath('99_Papers/BrooksN/Brooks_2020_A mechanism to promote social behaviour in household load balancing 1.pdf')
+WindowsPath('99_Papers/CardeQ/Carde_2019_How to reduce a genome ALife as a tool to teach the scientific method to school pupils 1.pdf')
+WindowsPath('99_Papers/CasellaG/Casella_2002_Statistical Inference - Casella, George; Berger, Roger L. 9780534119584 - AbeBooks 1.pdf')
+WindowsPath('99_Papers/ChanB/Chan_2021_The evolutionary diversity of barnacles, with an updated classification of fossil and living forms 1.pdf')
+WindowsPath('99_Papers/CimpeanuT/Cimpeanu_2019_Exogenous Rewards for Promoting Cooperation in Scale-Free Networks 1.pdf')
+WindowsPath('99_Papers/CollenetteJ/Collenette_2019_Stability of Cooperation in Societies of Emotional and Moody Agents 1.pdf')
+WindowsPath('99_Papers/DaleM/Dale_2020_Designing Computational Substrates using Open-Ended Evolution 1.pdf')
+WindowsPath('99_Papers/DaviesP/Davies_2011_Cancer tumors as Metazoa 1.0 tapping genes of ancient ancestors.pdf')
+WindowsPath('99_Papers/DewarA/Dewar_2020_Exploring the robustness of insect-inspired visual navigation for flying robots 1.pdf')
+WindowsPath('99_Papers/DuongM/Duong_2019_On the Expected Number and Distribution of Equilibria in Multi-player Evolutionary Games 1.pdf')
+WindowsPath('99_Papers/FloresD/Flores_1991_Bison Ecology and Bison Diplomacy The Southern Plains from 1800 to 1850 1.pdf')
+WindowsPath('99_Papers/FüchslinR/Füchslin_2019_Simplified Modeling of the Evolution of Skills in a Spatially Resolved Environment 1.pdf')
+WindowsPath('99_Papers/GaborD/Gabor_1971_The Nobel Prize in Physics 1971 1.pdf')
+WindowsPath('99_Papers/GolesE/Goles_2011_Communication complexity and intrinsic universality in cellular automata 1.pdf')
+WindowsPath('99_Papers/GuttenbergN/Guttenberg_2019_Evolutionary rates of information gain and decay in fluctuating environments 1.pdf')
+WindowsPath('99_Papers/HahnC/Hahn_2019_Emergent Escape-based Flocking behavior using Multi-Agent Reinforcement Learning 1.pdf')
+WindowsPath('99_Papers/HanT/Han_2019_Promoting Cooperation through External Interference 1.pdf')
+WindowsPath('99_Papers/HollerS/Holler_2019_Droplet based synthetic biology chemotaxis and interface with biology 1.pdf')
+WindowsPath('99_Papers/IchihashiN/Ichihashi_2018_Oscillating population dynamics and evolution of host and parasitic RNAs in an artificial cell 1.pdf')
+WindowsPath('99_Papers/IchinoseG/Ichinose_2013_Adaptive long-range migration promotes cooperation under tempting conditions 1.pdf')
+WindowsPath('99_Papers/IchinoseG/Ichinose_2014_Invasion of Cooperation in Scale-Free Networks Accumulated vs. Average Payoffs 1.pdf')
+WindowsPath('99_Papers/IchinoseG/Ichinose_2018_Zero-Determinant Strategies in Repeated Prisoner’s Dilemma Games 1.pdf')
+WindowsPath('99_Papers/IizukaH/Iizuka_2015_Applying homeostatic neural controller to multi-legged robot and adaptivity to novel disruptions 1.pdf')
+WindowsPath('99_Papers/IizukaH/Iizuka_2018_Learning of Individual Sensorimotor Mapping to Form Swarm Behavior from Real Fish Data 1.pdf')
+WindowsPath('99_Papers/IizukaH/Iizuka_2019_Hybrid Synthetic Approach to Animal Interaction 1.pdf')
+WindowsPath('99_Papers/IizukaH/Iizuka_2022_Generation of Complex Patterns using Coupled Generative Adversarial Networks 1.pdf')
+WindowsPath('99_Papers/IJzermanH/IJzerman_2020_Use caution when applying behavioural science to policy 1.pdf')
+WindowsPath('99_Papers/IkegamiT/Ikegami_2018_2018 Preface 1.pdf')
+WindowsPath('99_Papers/IkegamiT/Ikegami_2018_Beyond AI A New Epistemology for Artificial Life and Complex Systems, an Introduction to the 2018 A 1.pdf')
+WindowsPath('99_Papers/IkegamiT/Ikegami_2018_The 2018 Conference on Artificial Life (full proceedings pdf) 1.pdf')
+WindowsPath('99_Papers/IlgünA/Ilgün_2021_Bio-Hybrid Systems for Ecosystem Level Effects 1.pdf')
+WindowsPath('99_Papers/ImachiH/Imachi_2020_Isolation of an archaeon at the prokaryote–eukaryote interface 1.pdf')
+WindowsPath('99_Papers/IndenB/Inden_2013_Neural agents can evolve to reproduce sequences of arbitrary length 1.pdf')
+WindowsPath('99_Papers/InfantinoI/Infantino_2013_An Artificial Behavioral Immune System for cognitive robotics 1.pdf')
+WindowsPath('99_Papers/IrwinN/Irwin_2021_Systematic evaluation of horizontal gene transfer between eukaryotes and viruses 1.pdf')
+WindowsPath('99_Papers/IsakssonH/Isaksson_2021_The Consequences of Budding versus Binary Fission on Adaptation and Aging in Primitive Multicellular 1.pdf')
+WindowsPath('99_Papers/IslamM/Islam_2016_Modeling the Evolution of Mimicry 1.pdf')
+WindowsPath('99_Papers/IslamM/Islam_2022_String a programming language for the evolution of ribozymes in a new computational protocell model 1.pdf')
+WindowsPath('99_Papers/ItoT/Ito_2013_Coevolutionary Dynamics Caused by Asymmetries in Predator-Prey and Morphology-Behavior Relationships 1.pdf')
+WindowsPath('99_Papers/ItoT/Ito_2014_Population and Evolutionary Dynamics Based on Predator-Prey Relationship in 3D Physical Simulation 1.pdf')
+WindowsPath('99_Papers/ItoT/Ito_2015_Evolutionary change precedes extinction in eco-evolutionary dynamics based on a 3D virtual predator- 1.pdf')
+WindowsPath('99_Papers/IvanovP/Ivanov_2014_Associating Nearby Robots to Their Voices 1.pdf')
+WindowsPath('99_Papers/IzquierdoE/Izquierdo_2013_Analysis of Ultrastability in Small Dynamical Recurrent Neural Networks 1.pdf')
+WindowsPath('99_Papers/IzquierdoE/Izquierdo_2015_An Integrated Neuromechanical Model of Steering in C. elegans 1.pdf')
+WindowsPath('99_Papers/IzquierdoE/Izquierdo_2016_Propagation of rhythmic dorsoventral wave in a neuromechanical model of locomotion in Caernohabditis 1.pdf')
+WindowsPath('99_Papers/IzquierdoE/Izquierdo_2022_Perpetual Crossers without Sensory Delay Revisiting the Perceptual Crossing Simulation Studies 1.pdf')
+WindowsPath('99_Papers/IzquierdoE/Izquierdo_2022_What does functional connectivity tell us about the behaviorally-functional connectivity of a multif 1.pdf')
+WindowsPath('99_Papers/IzquierdoE/Izquierdo_2024_Evolution of Embodied Agents on a Numerical Cognition Task Sequential Counting 1.pdf')
+WindowsPath('99_Papers/JablonskiD/Jablonski_2022_Evolvability and Macroevolution Overview and Synthesis 1.pdf')
+WindowsPath('99_Papers/JacksonA/Jackson_2013_The Effects of Assortment on Population Structuring Traits on the Evolution of Cooperation 1.pdf')
+WindowsPath('99_Papers/JacksonA/Jackson_2023_Finding Sparse Initialisations using Neuroevolutionary Ticket Search (NeTS) 1.pdf')
+WindowsPath('99_Papers/JacksonB/Jackson_2019_Neuroevolution of Humanoids that Walk Further and Faster with Robust Gaits 1.pdf')
+WindowsPath('99_Papers/JaegerJ/Jaeger_2024_The Fourth Perspective Evolution and Organismal Agency 1.pdf')
+WindowsPath('99_Papers/JahnsJ/Jahns_2018_How the integration of group and individual level selection affects the evolution of cooperation 1.pdf')
+WindowsPath('99_Papers/JainA/Jain_2012_Task decomposition with neuroevolution in extended predator-prey domain 1.pdf')
+WindowsPath('99_Papers/JamborH/Jambor_2024_Ten simple rules for designing graphical abstracts 1.pdf')
+WindowsPath('99_Papers/JankeS/Janke_2015_Practical Fault Tolerant 2D Cellular Automata 1.pdf')
+WindowsPath('99_Papers/JelisavcicM/Jelisavcic_2018_Analysing the Relative Importance of Robot Brains and Bodies 1.pdf')
+WindowsPath('99_Papers/JensenJ/Jensen_2018_Computation in artificial spin ice 1.pdf')
+WindowsPath('99_Papers/JensenJ/Jensen_2020_Reservoir Computing in Artificial Spin Ice 1.pdf')
+WindowsPath('99_Papers/JensenW/Jensen_2014_Design and Analysis of Experiments by Douglas Montgomery A Supplement for Using JMP® 1.pdf')
+WindowsPath('99_Papers/JeongH/Jeong_2015_Complete Genome Sequence of Escherichia coli Strain BL21 1.pdf')
+WindowsPath('99_Papers/JeongH/Jeong_2019_Horizontal gene transfer in human-associated microorganisms inferred by phylogenetic reconstruction 1.pdf')
+WindowsPath('99_Papers/JeschkeJ/Jeschke_2019_Knowledge in the dark scientific challenges and ways forward 1.pdf')
+WindowsPath('99_Papers/JessusC/Jessus_2024_Henri de Lacaze-Duthiers and the ascidian hypothesis 1.pdf')
+WindowsPath('99_Papers/JiangS/Jiang_2023_Simulating Disease Spread During Disaster Scenarios 1.pdf')
+WindowsPath('99_Papers/JiaT/Jia_2021_Liquid Crystal Phase Assembly in Peptide-DNA Coacervates as a Mechanism for Primitive Emergence of S 1.pdf')
+WindowsPath('99_Papers/JImmatSci/JImmatSci_2023_Supernatural Products An Illiterature Review. A compilation of each entrant in our competition. 1.pdf')
+WindowsPath('99_Papers/JoachimczakM/Joachimczak_2012_Brainless Bodies Controlling the Development and Behavior of Multicellular Animats by Gene Regulati 1.pdf')
+WindowsPath('99_Papers/JoachimczakM/Joachimczak_2012_Open Ended Evolution of 3D Multicellular Development Controlled by Gene Regulatory Networks 1.pdf')
+WindowsPath('99_Papers/JoachimczakM/Joachimczak_2013_Controlling development and chemotaxis of soft-bodied multicellular animats with the same gene regul 1.pdf')
+WindowsPath('99_Papers/JoachimczakM/Joachimczak_2014_Fine Grained Artificial Development for Body-Controller Coevolution of Soft-Bodied Animats 1.pdf')
+WindowsPath('99_Papers/JoachimczakM/Joachimczak_2015_From tadpole to frog artificial metamorphosis as a method of evolving self-reconfiguring robots 1.pdf')
+WindowsPath('99_Papers/JoachimczakM/Joachimczak_2016_Spiral autowaves as minimal, distributed gait controllers for soft-bodied animats 1.pdf')
+WindowsPath('99_Papers/JohnsonA/Johnson_2014_More Bang For Your Buck Quorum-Sensing Capabilities Improve the Efficacy of Suicidal Altruism 1.pdf')
+WindowsPath('99_Papers/JohnsonC/Johnson_2014_Active Shape Discrimination with Physical Reservoir Computers 1.pdf')
+WindowsPath('99_Papers/JohnsonK/Johnson_2022_Endosymbiosis or Bust Influence of Ectosymbiosis on Evolution of Obligate Endosymbiosis 1.pdf')
+WindowsPath('99_Papers/JohnsonK/Johnson_2023_Evolution of symbiotic task-based digital genomes ectosymbiosis hastens the evolution of endosymbio 1.pdf')
+WindowsPath('99_Papers/JohnsonW/Johnson_2017_How to Optimize Human Biology 1.pdf')
+WindowsPath('99_Papers/JohnstonC/Johnston_2014_Bacterial transformation distribution, shared mechanisms and divergent control 1.pdf')
+WindowsPath('99_Papers/JolleyB/Jolley_2018_Evolving Robust, Deliberate Motion Planning With a Shallow Convolutional Neural Network 1.pdf')
+WindowsPath('99_Papers/JonesE/Jones_1987_The development of animal cap cells in Xenopus a measure of the start of animal cap competence to f 1.pdf')
+WindowsPath('99_Papers/JoshiN/Joshi_2012_The Minimal Complexity of Adapting Agents Increases with Fitness 1.pdf')
+WindowsPath('99_Papers/JungJ/Jung_2014_An Agent-Based Model of Indirect Minority Influence on Social Change 1.pdf')
+WindowsPath('99_Papers/JékelyG/Jékely_2021_Reafference and the origin of the self in early nervous system evolution 1.pdf')
+WindowsPath('99_Papers/JørgensenM/Jørgensen_2021_SARS-CoV-2 pandemic dynamics and infection tracing in Denmark 1.pdf')
+WindowsPath("99_Papers/KackerR/Kacker_1991_Taguchi's orthogonal arrays are classical designs of experiments 1.pdf")
+WindowsPath('99_Papers/KadishD/Kadish_2019_An artificial life approach to studying niche differentiation in soundscape ecology 1.pdf')
+WindowsPath('99_Papers/KadishD/Kadish_2020_Adapting to a changing environment Simulating the effects of noise on animal sonification 1.pdf')
+WindowsPath('99_Papers/KahanaA/Kahana_2023_Identifying molecular selection using Assembly Theory and closed-loop experiments 1.pdf')
+WindowsPath('99_Papers/KaiserT/Kaiser_2020_Evolution of Diverse Swarm Behaviors with Minimal Surprise 1.pdf')
+WindowsPath('99_Papers/KaiserT/Kaiser_2023_Evolving Dynamic Collective Behaviors by Minimizing Surprise 1.pdf')
+WindowsPath('99_Papers/KanagawaY/Kanagawa_2024_Evolution of Rewards for Food and Motor Action by Simulating Birth and Death 1.pdf')
+WindowsPath('99_Papers/KanoT/Kano_2017_A brittle star-like robot capable of immediately adapting to unexpected physical damage 1.pdf')
+WindowsPath('99_Papers/KanoT/Kano_2018_Decentralized Control Scheme for Swarm Robots with Self-Sacrific 1.pdf')
+WindowsPath('99_Papers/KanoT/Kano_2019_Engineering Application of Non-Reciprocal-Interaction-Based (NRIB) Model Swarm Robotic System That 1.pdf')
+WindowsPath('99_Papers/KanoT/Kano_2020_Adaptive One-dimensional Crawling Robot Driven by Simple Decentralized Control Mechanism 1.pdf')
+WindowsPath('99_Papers/KarakayaM/Karakaya_2021_Acute Citalopram administration alters zebrafish social dynamics in a behavioral teleporting experim 1.pdf')
+WindowsPath('99_Papers/KargarB/Kargar_2021_The effect of selecting for different behavioral traits on the evolved gaits of modular robots 1.pdf')
+WindowsPath('99_Papers/KasashimaH/Kasashima_2024_A Deep Learning Approach to Understanding the Integration of Tools into Body Schema 1.pdf')
+WindowsPath('99_Papers/KatonaA/Katona_2021_Quality Evolvability ES Evolving Individuals With a Distribution of Well Performing and Diverse Off 1.pdf')
+WindowsPath('99_Papers/KatoT/Kato_2013_Robust Optimization of Adjustable Control Factors Using Particle Swarm Optimization 1.pdf')
+WindowsPath('99_Papers/KauffmanL/Kauffman_2014_Chemlambda, Universality and Self-Multiplication 1.pdf')
+WindowsPath('99_Papers/KauffmanS/Kauffman_2023_A third transition in science 1.pdf')
+WindowsPath('99_Papers/KauffmanS/Kauffman_2023_Mixed anhydrides at the intersection between peptide and RNA autocatalytic sets evolution of biolog 1.pdf')
+WindowsPath('99_Papers/KauffmanS/Kauffman_2024_Is the Emergence of Life an Expected Phase Transition in the Evolving Universe 1.pdf')
+WindowsPath('99_Papers/KawaguchiT/Kawaguchi_2021_Introducing asymptotics to the state-updating rule in Lenia 1.pdf')
+WindowsPath('99_Papers/KawamuraA/Kawamura_2024_Self-propulsion of 3-Phenylpropionaldehyde droplets 1.pdf')
+WindowsPath('99_Papers/KazakovD/Hutchison_2005_Evolving the Game of Life 1.pdf')
+WindowsPath('99_Papers/KeasarT/Keasar_2023_Can sociality facilitate learning of complex tasks Lessons from bees and flowers 1.pdf')
+WindowsPath('99_Papers/KeijzerF/Keijzer_2013_What nervous systems do early evolution, input–output, and the skin brain thesis 1.pdf')
+WindowsPath('99_Papers/KeijzersS/Keijzers_2013_Image Similarity Search using a Negative Selection Algorithm 1.pdf')
+WindowsPath('99_Papers/KengyelD/Kengyel_2013_Influence of a Social Gradient on a Swarm of Agents Controlled by the BEECLUST Algorithm 1.pdf')
+WindowsPath('99_Papers/KhajehabdollahiS/Khajehabdollahi_2018_Critical Learning vs. Evolution Evolutionary Simulation of a Population of Ising-Embodied Neural Ne 1.pdf')
+WindowsPath('99_Papers/KhajehabdollahiS/Khajehabdollahi_2021_Reservoir computing with self-organizing neural oscillators 1.pdf')
+WindowsPath('99_Papers/KhajehabdollahiS/Khajehabdollahi_2023_Locally adaptive cellular automata for goal-oriented self-organization 1.pdf')
+WindowsPath('99_Papers/KhalufY/Khaluf_2013_Task Allocation Strategy for Time-Constrained Tasks in Robots Swarms 1.pdf')
+WindowsPath('99_Papers/KhalufY/Khaluf_2015_An Efficient Ant Colony System for Edge Detection in Image Processing 1.pdf')
+WindowsPath('99_Papers/KhalufY/Khaluf_2023_How Individual Heterogeneity impacts Spreading Dynamics in Urban Proximity Networks A case-study of 1.pdf')
+WindowsPath('99_Papers/KhanI/Khan_2020_Modelling the Social Buffering Hypothesis in an Artificial Life Environment 1.pdf')
+WindowsPath('99_Papers/KhanI/Khan_2021_Adaptation-By-Proxy Contagion Effect of Social Buffering in an Artificial Society 1.pdf')
+WindowsPath('99_Papers/KhanI/Khan_2022_A Participatory Complex Systems Modelling Approach Towards Rewilding in the UK 1.pdf')
+WindowsPath('99_Papers/KharmaN/Kharma_2014_CodeRouge a Project to Evolve Life-like Autonomous Programs 1.pdf')
+WindowsPath('99_Papers/KhatizahE/Khatizah_2023_A Python-based educational software tool for visualizing bioinformatics alignment algorithms 1.pdf')
+WindowsPath('99_Papers/KhazanovM/Khazanov_2013_Exploiting Dynamical Complexity in a Physical Tensegrity Robot to Achieve Locomotion 1.pdf')
+WindowsPath('99_Papers/KhazanovM/Khazanov_2014_Evolution of Locomotion on a Physical Tensegrity Robot 1.pdf')
+WindowsPath('99_Papers/KhurmaR/Khurma_2021_Salp Swarm Optimization Search Based Feature Selection for Enhanced Phishing Websites Detection 1.pdf')
+WindowsPath('99_Papers/KimH/Kim_2014_Informational Architecture of the Fission Yeast Cell Cycle Regulatory Network 1.pdf')
+WindowsPath('99_Papers/KimH/Kim_2016_The Relationship between Microscopic and Collective Properties in Gene Regulatory Network-based Morp 1.pdf')
+WindowsPath('99_Papers/KimH/Kim_2018_Robustness and Evolvability of Multilayer Gene Regulatory Networks 1.pdf')
+WindowsPath('99_Papers/Kimiz-GebologluI/Kimiz-Gebologlu_2020_Development of a serum free medium for HUMIRA ® biosimilar by design of experiment approa 1.pdf')
+WindowsPath('99_Papers/KimN/Kim_2007_Three-Dimensional Phylogeny Explorer Distinguishing paralogs, lateral transfer, and violation of m 1.pdf')
+WindowsPath('99_Papers/KimS/Kim_2009_Development of serum-free medium supplemented with hydrolysates for the production of therapeutic an 1.pdf')
+WindowsPath('99_Papers/KingD/King_2019_Entropy-Based Team Self-Organization with Signal Suppression 1.pdf')
+WindowsPath('99_Papers/KirchenbauerJ/Kirchenbauer_2024_A Watermark for Large Language Models 1.pdf')
+WindowsPath('99_Papers/KirezciE/Kirezci_2020_Projections of global-scale extreme sea levels and resulting episodic coastal flooding over the 21st 1.pdf')
+WindowsPath('99_Papers/KirkpatrickD/Kirkpatrick_2019_The role of ambient noise in the evolution of robust mental representations in cognitive systems 1.pdf')
+WindowsPath('99_Papers/KirkpatrickD/Kirkpatrick_2021_Tracking data flow in digital brains exposes coincidental encryption 1.pdf')
+WindowsPath('99_Papers/KirkpatrickD/Kirkpatrick_2021_Using MAP-Elites to direct the evolution of desired neural characteristics 1.pdf')
+WindowsPath('99_Papers/KirschnerM/Kirschner_1998_Evolvability 1.pdf')
+WindowsPath('99_Papers/KiryazovK/Kiryazov_2013_The role of arousal in embodying the cueXdeficit model in multi-resource human-robot interaction 1.pdf')
+WindowsPath('99_Papers/Kish Bar-OnK/Kish Bar-On_2023_The interplay of social identity and norm psychology in the evolution of human groups 1.pdf')
+WindowsPath('99_Papers/KlemmtC/Klemmt_2018_Architectural Design by Cellular Growth Algorithm 1.pdf')
+WindowsPath('99_Papers/KlopferE/Klopfer_2003_StarLogo under the hood and in the classroom 1.pdf')
+WindowsPath('99_Papers/KloubL/Kloub_2021_Systematic Detection of Large-Scale Multigene Horizontal Transfer in Prokaryotes 1.pdf')
+WindowsPath('99_Papers/KnightJ/Knight_2019_Insect-Inspired Visual Navigation On-Board an Autonomous Robot Real-World Routes Encoded in a Singl 1.pdf')
+WindowsPath('99_Papers/KnöspelF/Knöspel_2010_Optimization of a serum-free culture medium for mouse embryonic stem cells using design of experimen 1.pdf')
+WindowsPath('99_Papers/KocherovskyM/Kocherovsky_2024_Crossover Destructiveness in Cartesian versus Linear Genetic Programming 1.pdf')
+WindowsPath('99_Papers/KojimaH/Kojima_2021_Artificial Cognitive Map System based on Generative Deep Neural Networks 1.pdf')
+WindowsPath('99_Papers/KojimaH/Kojima_2023_Implementation of Lenia as a Reaction-Diffusion System 1.pdf')
+WindowsPath('99_Papers/KojimaK/Kojima_2016_Equality seekers or moderate monopolists Social structure affects the evolution of distributive nor 1.pdf')
+WindowsPath('99_Papers/KolezhitskiyY/Kolezhitskiy_2020_Dynamical Systems Analysis of a Protocell 1.pdf')
+WindowsPath('99_Papers/KollerC/Koller_2025_Counting Short Trajectories in Elementary Cellular Automata using the Transfer Matrix Method 1.pdf')
+WindowsPath('99_Papers/KomatsuD/Komatsu_2013_Construction of a remote-controlled supramolecular micro-crawler 1.pdf')
+WindowsPath('99_Papers/KomosinskiM/Komosinski_2019_Measuring properties of movement in populations of evolved 3D agents 1.pdf')
+WindowsPath('99_Papers/KomosinskiM/Komosinski_2021_Diversity Control in Evolution of Movement 1.pdf')
+WindowsPath('99_Papers/KooninE/Koonin_2001_Horizontal gene transfer in prokaryotes quantification and classification 1.pdf')
+WindowsPath('99_Papers/KoosS/Koos_2014_Abstract of “Fast Damage Recovery in Robotics with the T-Resilience Algorithm” 1.pdf')
+WindowsPath('99_Papers/KoreckiM/Korecki_2023_aRtificiaL death learning from stories of failure 1.pdf')
+WindowsPath('99_Papers/KotrcB/Kotrc_2015_Morphospaces and Databases Diatom Diversification through Time 1.pdf')
+WindowsPath('99_Papers/KoutenskyF/Koutensky_2024_Unlocking Nature’s Design through Neural Cellular Automata 1.pdf')
+WindowsPath('99_Papers/KovitzB/Kovitz_2019_Acclivation of Virtual Fitness Landscapes 1.pdf')
+WindowsPath('99_Papers/KowarskyM/Kowarsky_2021_Sexual and asexual development two distinct programs producing the same tunicate 1.pdf')
+WindowsPath('99_Papers/KozdonK/Kozdon_2018_The Evolution of Training Parameters for Spiking Neural Networks with Hebbian Learning 1.pdf')
+WindowsPath('99_Papers/KozdonK/Kozdon_2020_Architectural Plasticity in Spiking Neural Networks 1.pdf')
+WindowsPath('99_Papers/KunkleD/Kunkle_2003_Automatic Classification of One-Dimensional Cellular Automata 1.pdf')
+WindowsPath('99_Papers/LimS/Lim_2019_All in Good Team Optimising Team Personalities for Different Dynamic Problems and Task Types 1.pdf')
+WindowsPath('99_Papers/LomasA/Lomas_2019_Morphogenetic Vase Forms 1.pdf')
+WindowsPath('99_Papers/MaccallumR/Maccallum_2022_Automated Ligand Design in Simulated Molecular Docking 1.pdf')
+WindowsPath('99_Papers/MadridY/Madrid_2016_Complexity and Structural Properties in Scale-free Networks 1.pdf')
+WindowsPath('99_Papers/MadrugaB/Madruga_2024_Open-source, high performance miniature multiphoton microscopy systems for freely behaving animals 1.pdf')
+WindowsPath('99_Papers/MaekawaT/Maekawa_2013_Heterogeneity and complexity of a simulated terrestrial environment account for superiority of the a 1.pdf')
+WindowsPath('99_Papers/MaggioriniD/Maggiorini_2013_Follow the Leader a Scalable Approach for Realistic Group Behavior of Roaming NPCs in MMO Games 1.pdf')
+WindowsPath('99_Papers/MahayekhiM/Mahayekhi_2014_n Enhanced Artificial Ecosystem Investigating Emergence of Ecological Niches 1.pdf')
+WindowsPath('99_Papers/MaherJ/Maher_2013_The Influence of Cell Type on Artificial Development 1.pdf')
+WindowsPath('99_Papers/MajeedH/Majeed_2015_Reincarnation, Predestination and Moral Responsibility Critical Issues in Akan Philosophy 1.pdf')
+WindowsPath('99_Papers/MalletJ/Mallet_2016_How reticulated are species 1.pdf')
+WindowsPath('99_Papers/MalloD/Mallo_2016_SimPhy Phylogenomic Simulation of Gene, Locus, and Species Trees 1.pdf')
+WindowsPath('99_Papers/MalyshevD/Malyshev_2009_PCR with an Expanded Genetic Alphabet 1.pdf')
+WindowsPath('99_Papers/MalyshevD/Malyshev_2014_A semi-synthetic organism with an expanded genetic alphabet 1.pdf')
+WindowsPath('99_Papers/MalyshevD/Malyshev_2015_The expanded genetic alphabet 1.pdf')
+WindowsPath('99_Papers/MamiyaA/Mamiya_2019_Only Two Types of Strategies Enforce Linear Payoff Relationships Under Observation Errors in Repeate 1.pdf')
+WindowsPath('99_Papers/MamiyaA/Mamiya_2020_Zero-Determinant Strategies under Observation Errors 1.pdf')
+WindowsPath('99_Papers/ManK/Man_2020_Truth or Consequences Homeostatic Self-Regulation in Artificial Neural Networks 1.pdf')
+WindowsPath('99_Papers/MannaS/Manna_1990_Systematics of transitions of square-lattice cellular automata 1.pdf')
+WindowsPath('99_Papers/MansourC/Mansour_2019_Robotic models of obstacle avoidance in bats assessing the benefit of acoustic gaze scanning in com 1.pdf')
+WindowsPath('99_Papers/ManziniG/Manzini_1999_A complete and efficiently computable topological classification of D-dimensional linear cell 1.pdf')
+WindowsPath('99_Papers/MarianoP/Mariano_2013_Population Dynamics of Centipede Game using an Energy Based Evolutionary Algorithm 1.pdf')
+WindowsPath('99_Papers/MarianoP/Mariano_2018_Evolving robot controllers for a bio-hybrid system 1.pdf')
+WindowsPath('99_Papers/MarijuánP/Marijuán_2021_From Molecular Recognition to the Vehicles of Evolutionary Complexity An Informational Approach 1.pdf')
+WindowsPath('99_Papers/MaritanM/Maritan_2022_Building Structural Models of a Whole Mycoplasma Cell 1.pdf')
+WindowsPath('99_Papers/MarkovitchO/Markovitch_2020_Competition Dynamics in a Chemical System of Self-replicating Macrocycles 1.pdf')
+WindowsPath('99_Papers/MarriottC/Marriott_2014_The Effect of Social Learning on Individual Learning 1.pdf')
+WindowsPath('99_Papers/MarriottC/Marriott_2015_Emergence-focused design in complex system simulation 1.pdf')
+WindowsPath('99_Papers/MarriottC/Marriott_2016_Divergent Cumulative Cultural Evolution 1.pdf')
+WindowsPath('99_Papers/MarriottC/Marriott_2016_Finding a Mate With Eusocial Skills 1.pdf')
+WindowsPath('99_Papers/MarriottC/Marriott_2016_Modeling the Evolution of Gene-Culture Divergence 1.pdf')
+WindowsPath('99_Papers/MarriottC/Marriott_2023_Domestication syndrome via indirect selection in simulated cereal grains 1.pdf')
+WindowsPath('99_Papers/MarshallS/Marshall_2021_Identifying molecules as biosignatures with assembly theory and mass spectrometry 1.pdf')
+WindowsPath('99_Papers/MartinC/Martin_2019_Probabilistic Program Neurogenesis 1.pdf')
+WindowsPath('99_Papers/MartinezG/Martinez_2015_Majority Gates and Circular Computation in Slime Mould 1.pdf')
+WindowsPath('99_Papers/MartinW/Martin_1999_Mosaic bacterial chromosomes a challenge en route to a tree of genomes 1.pdf')
+WindowsPath('99_Papers/MartinW/Martin_2017_Late Mitochondrial Origin Is an Artifact 1.pdf')
+WindowsPath('99_Papers/MartiusG/Martius_2015_Quantifying Self-Organizing Behavior of Autonomous Robots 1.pdf')
+WindowsPath('99_Papers/MartiusG/Martius_2016_Self-organized control of an tendon driven arm by differential extrinsic plasticity 1.pdf')
+WindowsPath('99_Papers/Martínez-SánchezÁ/Martínez-Sánchez_2024_Decomposing causality into its synergistic, unique, and redundant components 1.pdf')
+WindowsPath('99_Papers/MartínezG/Martínez_2012_COMPLEX DYNAMICS OF ELEMENTARY CELLULAR AUTOMATA EMERGING FROM CHAOTIC RULES 1.pdf')
+WindowsPath('99_Papers/MaruyamaN/Maruyama_2014_Designing a Robotic Platform Controlled by Cultured Neural Cells 1.pdf')
+WindowsPath('99_Papers/MaruyamaN/Maruyama_2021_Studying Embodied Cognition in the Android Alter 1.pdf')
+WindowsPath('99_Papers/MaruyamaN/Maruyama_2023_Emergence of Differentiation of DeterministicStochastic Behavior in Ants’ Collectives 1.pdf')
+WindowsPath('99_Papers/Marín-ParedesR/Marín-Paredes_2023_A Metagenome from a Steam Vent in Los Azufres Geothermal Field Shows an Abundance of Thermoplasmatal 1.pdf')
+WindowsPath('99_Papers/MaselkoJ/Maselko_2013_Experimental studied on growing chemical organisms 1.pdf')
+WindowsPath('99_Papers/MashR/Mash_2024_Curious POET Intrinsic Motivation Improves Exploration Efficiency 1.pdf')
+WindowsPath('99_Papers/MastroianniA/Mastroianni_2023_The illusion of moral decline 1.pdf')
+WindowsPath('99_Papers/MasumoriA/Masumori_2014_Designing a Passive Folding String Device with an Electromagnet 1.pdf')
+WindowsPath('99_Papers/MasumoriA/Masumori_2015_Emergence of Sense-Making Behavior by the Stimulus Avoidance Principle Experiments on a Robot Behav 1.pdf')
+WindowsPath('99_Papers/MasumoriA/Masumori_2018_Autonomous Regulation of Self and Non-Self by Stimulation Avoidance in Embodied Neural Networks 1.pdf')
+WindowsPath('99_Papers/MasumoriA/Masumori_2020_Evolving Acoustic Niche Differentiation and Soundscape Complexity Based on Intraspecific Sound Commu 1.pdf')
+WindowsPath('99_Papers/MasumoriA/Masumori_2023_Embodied Time Perception Effects of Time Delay on Hand Motion and Time Estimation in Virtual Enviro 1.pdf')
+WindowsPath('99_Papers/MasumoriA/Masumori_2023_Exploring Multi-Level Inter-Scale Information Flow in Large-Scale Boids Model 1.pdf')
+WindowsPath('99_Papers/MasumoriA/Masumori_2024_Plasticity in Swarming Behavior Introducing Social Network to Boids Model 1.pdf')
+WindowsPath('99_Papers/MathisC/Mathis_2019_Autocatalysis in a Hierarchically Organized Inorganic Chemical Network 1.pdf')
+WindowsPath('99_Papers/MatsubayashiH/Matsubayashi_2013_In vitro Synthesis of Membrane Protein Machinery toward the Construction of Artificial Cell 1.pdf')
+WindowsPath('99_Papers/MatsukaT/Matsuka_2012_Effects of Individual Differences on Knowledge and Wisdom of Society A Social Modeling Approach 1.pdf')
+WindowsPath('99_Papers/MatsumuraT/Matsumura_2022_Empathic Active Inference Active Inference with Empathy Mechanism for Socially Behaved Artificial A 1.pdf')
+WindowsPath('99_Papers/MatsumuraT/Matsumura_2023_Social Emotional Valence for Regulating Empathy in Active Inference 1.pdf')
+WindowsPath('99_Papers/MatthewsD/Matthews_2020_Crowd grounding finding semantic and behavioral alignment through human robot interaction. 1.pdf')
+WindowsPath('99_Papers/MatthewsM/Matthews_2024_Craftax A Lightning-Fast Benchmark for Open-Ended Reinforcement Learning 1.pdf')
+WindowsPath('99_Papers/MaullV/Maull_2024_Planetary regulation on the test tube a synthetic Daisyworld 1.pdf')
+WindowsPath('99_Papers/MaX/Ma_2014_Hierarchical Heterogeneuous Particle Swarm Optimization 1.pdf')
+WindowsPath('99_Papers/Mayer-BaconC/Mayer-Bacon_2021_Evolution as a Guide to Designing xeno Amino Acid Alphabets 1.pdf')
+WindowsPath('99_Papers/MayerC/Mayer_2022_The Art of Clean Code 1.pdf')
+WindowsPath('99_Papers/Maynard SmithJ/Maynard Smith_2010_The major transitions in evolution 1.pdf')
+WindowsPath('99_Papers/MayneR/Mayne_2015_Slime mould actin sensoriactuation networks topology, dynamic transformations and models of self-as 1.pdf')
+WindowsPath('99_Papers/MazacS/Mazac_2014_On Bootstrapping Sensori-Motor Patterns for a Constructivist Learning System in Continuous Environme 1.pdf')
+WindowsPath('99_Papers/MańkoM/Mańko_2023_Establishing Bilateral Symmetry in Hydrozoan Planula Larvae, a Review of Siphonophore Early Developm 1.pdf')
+WindowsPath('99_Papers/McAteeT/McAtee_2019_Complex Systems and Artificial Life A Decade’s Overview 1.pdf')
+WindowsPath('99_Papers/McCaskillJ/McCaskill_2016_Microarray of programmable electrochemically active elements 1.pdf')
+WindowsPath('99_Papers/McClainC/McClain_2019_Alligators in the abyss The first experimental reptilian food fall in the deep ocean 1.pdf')
+WindowsPath('99_Papers/McCreeryH/McCreery_2022_Hysteresis stabilizes dynamic control of self-assembled army ant constructions 1.pdf')
+WindowsPath('99_Papers/McDermottJ/McDermott_2010_The unwanted guests of hermits A global review of the diversity and natural history of hermit crab 1.pdf')
+WindowsPath('99_Papers/McDonaldD/McDonald_2023_Greengenes2 unifies microbial data in a single reference tree 1.pdf')
+WindowsPath('99_Papers/McGeeR/McGee_2022_The cost of information acquisition by natural selection 1.pdf')
+WindowsPath('99_Papers/McGheeG/McGhee_2011_Convergent evolution limited forms most beautiful 1.pdf')
+WindowsPath('99_Papers/McInerneyJ/McInerney_2011_The Public Goods Hypothesis for the evolution of life on Earth 1.pdf')
+WindowsPath('99_Papers/McKaigJ/McKaig_2024_Chapter 10 Planetary Protection—History, Science, and the Future 1.pdf')
+WindowsPath('99_Papers/McLaughlinM/McLaughlin_2014_The Effect of Network Structure on the Spatial Coevolutionary GA 1.pdf')
+WindowsPath('99_Papers/McLaughlinM/McLaughlin_2014_The Effects of Elitism on Spatial Coevolutionary GAs 1.pdf')
+WindowsPath('99_Papers/McMullinB/McMullin_2015_The Overshoot Curriculum Artificial Life, Education and the Human Predicament 1.pdf')
+WindowsPath('99_Papers/McShaffreyC/McShaffrey_2023_Decomposing Viability Space 1.pdf')
+WindowsPath('99_Papers/McShaffreyC/McShaffrey_2024_Dissecting Viability in Multi-Agent Systems 1.pdf')
+WindowsPath('99_Papers/McSheaD/McShea_2023_Four reasons for scepticism about a human major transition in social individuality 1.pdf')
+WindowsPath('99_Papers/MedernachD/Medernach_2015_Evolutionary Progress in Heterogenous Cellular Automata (HetCA) 1.pdf')
+WindowsPath('99_Papers/MedernachD/Medernach_2016_Evolution of Heterogeneous Cellular Automata in Fluctuating Environments 1.pdf')
+WindowsPath('99_Papers/MedinaA/Medina_2023_Evolving Flying Machines in Minecraft Using Quality Diversity 1.pdf')
+WindowsPath('99_Papers/MedranoJ/Medrano_2024_Chemical autonomous agents reverse-engineering artificial life under the free-energy principle 1.pdf')
+WindowsPath('99_Papers/MehraP/Mehra_2023_Evolution of Pleiotropy and Epistasis in a Gene Regulatory Network 1.pdf')
+WindowsPath('99_Papers/MellmannH/Mellmann_2020_Anticipation as a Mechanism for Complex Behavior in Artificial Agents 1.pdf')
+WindowsPath('99_Papers/MeltzerP/Meltzer_2018_Interacting Hierarchical Dynamic Networks 1.pdf')
+WindowsPath('99_Papers/MentaA/Menta_2024_Latent Neural Cellular Automata for Resource-Efficient Image Restoration 1.pdf')
+WindowsPath('99_Papers/MereloJ/Merelo_2016_The human in the loop volunteer-based metacomputers as a socio-technical system 1.pdf')
+WindowsPath('99_Papers/MerrittK/Merritt_2014_Autonomous assembly of synthetic oligonucleotides built from an expanded DNA alphabet. Total synthes 1.pdf')
+WindowsPath('99_Papers/MertzaniA/Mertzani_2024_Power-Sensitive Design using Higher-Order Cybernetics Patterns 1.pdf')
+WindowsPath('99_Papers/MesoudiA/Mesoudi_2006_Towards a unified science of cultural evolution 1.pdf')
+WindowsPath('99_Papers/MesoudiA/Mesoudi_2011_Cultural evolution How Darwinian theory can explain human culture and synthesize the social science 1.pdf')
+WindowsPath('99_Papers/MesoudiA/Mesoudi_2018_What is cumulative cultural evolution 1.pdf')
+WindowsPath("99_Papers/MezaT/Meza_2011_The Bene Gesserit in Frank Herbert's Dune. An Analysis 1.pdf")
+WindowsPath('99_Papers/MichaelL/Michael_2012_An Ant-Based Computer Simulator 1.pdf')
+WindowsPath('99_Papers/Michel-Rolph Trouillot/Michel-Rolph Trouillot_1995_Silencing The Past Power And The Production Of History 1.pdf')
+WindowsPath('99_Papers/MikamiT/Mikami_2019_A reaction-diffusion model for simulating the oscillatory expansion of biofilms 1.pdf')
+WindowsPath('99_Papers/MikamiT/Mikami_2020_One-dimensional reaction-diffusion model for intra- and inter- biofilm oscillatory dynamics 1.pdf')
+WindowsPath('99_Papers/MiletitchR/Miletitch_2013_Information Aggregation Mechanisms in Social Odometry 1.pdf')
+WindowsPath('99_Papers/MillerS/Miller_2015_A Minimal Model for the Emergence of Cooperation in Randomly Growing Networks 1.pdf')
+WindowsPath('99_Papers/MillsR/Mills_2015_Coordination of collective behaviours in spatially separated agents 1.pdf')
+WindowsPath('99_Papers/MiloccoL/Milocco_2023_A data-driven framework to model the organism–environment system 1.pdf')
+WindowsPath('99_Papers/MimaR/Mima_2021_A Monocular Depth Estimator to Perceive Crater Illusions in Several Characteristics 1.pdf')
+WindowsPath('99_Papers/Minh-ThaiT/Minh-Thai_2021_A Comprehensive Conceptual and Computational Dynamics Framework for Autonomous Regeneration Systems 1.pdf')
+WindowsPath('99_Papers/MirasK/Miras_2018_Effects of Selection Preferences on Evolved Robot Morphologies and Behaviors 1.pdf')
+WindowsPath('99_Papers/MirasK/Miras_2019_The impact of environmental history on evolved robot properties 1.pdf')
+WindowsPath('99_Papers/MirasK/Miras_2021_The Impact of Early-death on Phenotypically Plastic Robots that Evolve in Changing Environments 1.pdf')
+WindowsPath('99_Papers/MisevicD/Misevic_2012_Effects of public good properties on the evolution of cooperation 1.pdf')
+WindowsPath('99_Papers/MisevicD/Misevic_2013_In silico evolution of transferable genetic elements 1.pdf')
+WindowsPath('99_Papers/MisevicD/Misevic_2016_Shape matters in cooperation 1.pdf')
+WindowsPath('99_Papers/MitohS/Mitoh_2021_Extreme autotomy and whole-body regeneration in photosynthetic sea slugs 1.pdf')
+WindowsPath('99_Papers/MitsuiM/Mitsui_2014_Applying Self-Assembly and Self-Reconfigurable Systems for Printer 1.pdf')
+WindowsPath('99_Papers/MitteroeckerP/Mitteroecker_2009_The Concept of Morphospaces in Evolutionary and Developmental Biology Mathematics and Metaphors 1.pdf')
+WindowsPath('99_Papers/MixL/Mix_2024_Foreword to the Astrobiology Primer 3.0 1.pdf')
+WindowsPath('99_Papers/MiyagawaD/Miyagawa_2020_How Lévy Flights Triggered by Presence of Defectors Affect Evolution of Cooperation in Spatial Games 1.pdf')
+WindowsPath('99_Papers/MiyashitaS/Miyashita_2013_Multi-Crease Self-Folding by Uniform Heating 1.pdf')
+WindowsPath('99_Papers/MizunoK/Mizuno_2022_Novel multicellular prokaryote discovered next to an underground stream 1.pdf')
+WindowsPath('99_Papers/MoczekA/Moczek_2023_Agency in living systems 1.pdf')
+WindowsPath('99_Papers/MohidM/Mohid_2015_Evolving Robot Controllers Using Carbon Nanotubes 1.pdf')
+WindowsPath('99_Papers/MohseniA/Mohseni_2023_Three-Dimensional Printing of Living Mycelium-Based Composites Material Compositions, Workflows, an 1.pdf')
+WindowsPath('99_Papers/MolteniC/Molteni_2024_Tangled genetic relationships within the Fusobacterium genus 1.pdf')
+WindowsPath('99_Papers/MontalvaM/Montalva_2014_Attraction Basins in a Lac Operon Model Under Different Update Schedules 1.pdf')
+WindowsPath('99_Papers/MontanierJ/Montanier_2013_Evolution of Altruism and Spatial Dispersion an Artificial Evolutionary Ecology Approach 1.pdf')
+WindowsPath('99_Papers/MonteroM/Montero_2024_Meta-Learning an Evolvable Developmental Encoding 1.pdf')
+WindowsPath('99_Papers/Montes de OcaM/Montes de Oca_2014_A Continuous-Time Binary Consensus Protocol with Hysteretic Units Applied to the Density Classificat 1.pdf')
+WindowsPath('99_Papers/MontiM/Monti_2015_Achieving Closure in Enzymes in Artificial Chemistries 1.pdf')
+WindowsPath('99_Papers/MooreD/Moore_2017_Cancer as a disorder of patterning information computational and biophysical perspectives on the ca 1.pdf')
+WindowsPath('99_Papers/MooreD/Moore_2018_Pattern Regeneration in Coupled Networks 1.pdf')
+WindowsPath('99_Papers/MooreD/Moore_2019_Inferring a Graph’s Topology from Games Played on It 1.pdf')
+WindowsPath('99_Papers/MooreJ/Moore_2013_Exploring the Role of the Tail in Bipedal Hopping through Computational Evolution 1.pdf')
+WindowsPath('99_Papers/MooreJ/Moore_2014_Hold the Spot Evolution of Generalized Station Keeping for an Aquatic Robot 1.pdf')
+WindowsPath('99_Papers/MooreJ/Moore_2014_Investigating Modular Coupling of Morphology and Control with Digital Muscles 1.pdf')
+WindowsPath('99_Papers/MooreJ/Moore_2015_Evaluating the Effect of a Flexible Spine on the Evolution of Quadrupedal Gaits 1.pdf')
+WindowsPath('99_Papers/MooreJ/Moore_2018_How computational thought experiments can improve our understanding of the genetic architecture of c 1.pdf')
+WindowsPath('99_Papers/MooreJ/Moore_2018_Tiebreaks and Diversity Isolating Effects in Lexicase Selection 1.pdf')
+WindowsPath('99_Papers/MooreJ/Moore_2019_Improve Quadrupedal Locomotion with Actuated or Passive Joints 1.pdf')
+WindowsPath('99_Papers/MooreJ/Moore_2021_Objective Sampling Strategies for Generalized Locomotion Behavior with Lexicase Selection 1.pdf')
+WindowsPath('99_Papers/MooreJ/Moore_2021_Supervision and Evolution Pretraining Neural Networks for Quadrupedal Locomotion 1.pdf')
+WindowsPath('99_Papers/MooreJ/Moore_2023_Fitness Agnostic Adaptive Sampling Lexicase Selection 1.pdf')
+WindowsPath('99_Papers/MoralesA/Morales_2019_Self-optimization in a Hopfield neural network based on the C. elegans connectome 1.pdf')
+WindowsPath('99_Papers/MoranE/Moran_2000_A systematic approach to the validation of process control parameters for monoclonal antibody produc 1.pdf')
+WindowsPath('99_Papers/MoranN/Moran_2018_Coevolutionary Neural Population Models 1.pdf')
+WindowsPath('99_Papers/MoranT/Moran_2013_The Origin of Money An Agent-Based Model 1.pdf')
+WindowsPath('99_Papers/MordvintsevA/Mordvintsev_2020_Growing Neural Cellular Automata 1.pdf')
+WindowsPath('99_Papers/MordvintsevA/Mordvintsev_2020_Thread Differentiable Self-organizing Systems 1.pdf')
+WindowsPath('99_Papers/MordvintsevA/Mordvintsev_2021_Differentiable Programming of Reaction-Diffusion Patterns 1.pdf')
+WindowsPath('99_Papers/MordvintsevA/Mordvintsev_2022_Growing Isotropic Neural Cellular Automata 1.pdf')
+WindowsPath('99_Papers/MordvintsevA/Mordvintsev_2024_Emergent Multiscale Structures and Generative Potential of Isotropic Neural Cellular Automata 1.pdf')
+WindowsPath('99_Papers/MoreiraD/Moreira_2000_Molecular phylogeny pitfalls and progress 1.pdf')
+WindowsPath('99_Papers/MorenoM/Moreno_2022_Exploring Evolved Multicellular Life Histories in a Open-Ended Digital Evolution System 1.pdf')
+WindowsPath('99_Papers/MorenoM/Moreno_2022_Hereditary Stratigraphy Genome Annotations to Enable Phylogenetic Inference over Distributed Popula 1.pdf')
+WindowsPath('99_Papers/MorenoM/Moreno_2022_hstrat a Python Package for phylogenetic inference on distributed digital evolution populations 1.pdf')
+WindowsPath('99_Papers/MorenoM/Moreno_2023_Toward Phylogenetic Inference of Evolutionary Dynamics at Scale 1.pdf')
+WindowsPath('99_Papers/MorenoM/Moreno_2024_Trackable Agent-based Evolution Models at Wafer Scale 1.pdf')
+WindowsPath('99_Papers/MoriH/Mori_2013_Emergence of diverse behaviors from interactions between nonlinear oscillator complex networks and a 1.pdf')
+WindowsPath('99_Papers/MoriH/Mori_2018_Information integration in a globally coupled chaotic system 1.pdf')
+WindowsPath('99_Papers/MorozL/Moroz_2021_Neural versus alternative integrative systems molecular insights into origins of neurotransmitters 1.pdf')
+WindowsPath('99_Papers/MöllerJ/Gowder_2017_Model-Based Design of Process Strategies for Cell Culture Bioprocesses State of the Art and New Per 1.pdf')
+WindowsPath('99_Papers/MöllerM/Möller_2023_Emergence of common concepts, symmetries and conformity in agent groups—an information-theoretic mod 1.pdf')
+WindowsPath('99_Papers/OrgelL/Orgel_2000_Self-organizing biochemical cycles 1.pdf')
+WindowsPath('99_Papers/PentzJ/Pentz_2022_Clonal development, not aggregation, drives the transition to multicellularity in an isogenic model 1.pdf')
+WindowsPath('99_Papers/PerretC/Perret_2019_Being a leader or being the leader The evolution of institutionalised hierarchy 1.pdf')
+WindowsPath('99_Papers/RaimbaultJ/Raimbault_2019_Generating urban morphologies at large scales 1.pdf')
+WindowsPath('99_Papers/RieglerB/Riegler_2019_On information-optimal scripting of actions 1.pdf')
+WindowsPath('99_Papers/SabathielS/Sabathiel_2020_Emerging Representations for Counting in a Neural Network Agent Interacting with a Multimodal Enviro 1.pdf')
+WindowsPath('99_Papers/SantosF/Santos_2019_Fairness in Multiplayer Ultimatum Games Through Moderate Responder Selection 1.pdf')
+WindowsPath('99_Papers/ScheideggerS/Scheidegger_2019_Optimizing Radiation Therapy Treatments by Exploring Tumour Ecosystem Dynamics in – silico 1.pdf')
+WindowsPath('99_Papers/SilvermanE/Silverman_2019_Convolutional Neural Networks for Cellular Automata Classification 1.pdf')
+WindowsPath('99_Papers/SinapayenL/Sinapayen_2019_DNN Architecture for High Performance Prediction on Natural Videos Loses Submodule’s Ability to Lear 1.pdf')
+WindowsPath('99_Papers/St. LuceS/St. Luce_2020_Phase Spaces of the Strategy Evolution in the El Farol Bar Problem 1.pdf')
+WindowsPath('99_Papers/TalaminiJ/Talamini_2019_Evolutionary Synthesis of Sensing Controllers for Voxel-based Soft Robots 1.pdf')
+WindowsPath('99_Papers/WahbyM/Wahby_2019_Collective Change Detection Adaptivity to Dynamic Swarm Densities and Light Conditions in Robot Swa 1.pdf')
+WindowsPath('99_Papers/WilliamsL/Williams_2019_Towards Complex Artificial Life 1.pdf')
+WindowsPath('99_Papers/ClawsonW/Clawson_2023_Endless forms most beautiful 2.0 teleonomy and the bioengineering of chimaeric and synthetic organi.pdf')
+WindowsPath('99_Papers/JuelB/Juel_2019_When is an action caused from within Quantifying the causal chain leading to actions in simulated a 2.pdf')
+WindowsPath('99_Papers/KardashevN/Kardashev_1964_Transmission of Information by Extraterrestrial Civilizations. 2.pdf')
+WindowsPath('99_Papers/KarelinG/Karelin_2024_Floatiles Self-Assembly Based On Cheerios Effect and Aperiodic Monotiles 2.pdf')
+WindowsPath('99_Papers/KennedyK/Kennedy_2018_The agency of women in Frank Herbert’s Dune series. 2.pdf')
+WindowsPath('99_Papers/KhalufY/Khaluf_2019_Modulating Interaction Times in an Artificial Society of Robots 2.pdf')
+WindowsPath('99_Papers/KirshenbaumS/Kirshenbaum_2024_Left out of the Room Where it Happens Barriers to Serving in Senior Congressional Staff Roles May L 2.pdf')
+WindowsPath('99_Papers/La CavaW/La Cava_2018_Behavioral search drivers and the role of elitism in soft robotics 2.pdf')
+WindowsPath('99_Papers/LaBarT/LaBar_2015_Does self-replication imply evolvability 2.pdf')
+WindowsPath('99_Papers/LabordeZ/Laborde_2023_Spatial Embedding of Edges in a Synaptic Generative Model of C. elegans 2.pdf')
+WindowsPath('99_Papers/LagasseE/Lagasse_2023_Future medicine from molecular pathways to the collective intelligence of the body 2.pdf')
+WindowsPath('99_Papers/LagisettyY/Lagisetty_2023_Binding affinity distributions drive adaptation in GRN evolution 2.pdf')
+WindowsPath('99_Papers/LakhmanK/Lakhman_2014_Evolution, Development and Learning with Predictor Neural Networks 2.pdf')
+WindowsPath('99_Papers/LakshtanovE/Lakshtanov_2006_Entropy of multidimensional cellular automata 2.pdf')
+WindowsPath('99_Papers/LammE/Lamm_2023_Human major transitions from the perspective of distributed adaptations 2.pdf')
+WindowsPath('99_Papers/LangtonC/Langton_1997_Artificial life  an overview 2.pdf')
+WindowsPath('99_Papers/LappanR/Lappan_2024_The atmosphere a transport medium or an active microbial ecosystem 2.pdf')
+WindowsPath('99_Papers/LauH/Lau_2013_Immune-Inspired Error Detection for Multiple Faulty Robots in Swarm Robotics 2.pdf')
+WindowsPath('99_Papers/LauP/Lau_2023_Evolved Eugenics and Reinforcement of “Othering” Renewed Ethico-Legal Perspectives of Genome Editin 2.pdf')
+WindowsPath('99_Papers/LavalP/Laval_1995_Hierarchical object-oriented design of a concurrent, individual-based, model of a pelagic Tunicate b 2.pdf')
+WindowsPath('99_Papers/LavalP/Laval_1996_The representation of space in an object-oriented computational pelagic ecosystem 2.pdf')
+WindowsPath('99_Papers/LavalP/Laval_1997_A virtual mesocosm with artificial salps for exploring the conditions of swarm development in the pe 2.pdf')
+WindowsPath('99_Papers/LavalP/Laval_1998_A LIVE COMPUTER SIMULATION OF SWARM DEVELOPMENT IN SALPA FUSIFORMIS (TUNICATA  THALIACEA) IN THE FR 2.pdf')
+WindowsPath('99_Papers/LaveryT/Lavery_2024_Parallel evolution in an island archipelago revealed by genomic sequencing of Hipposideros leaf-nose 2.pdf')
+WindowsPath('99_Papers/LawsonJ/Lawson_2015_Design and Analysis of Experiments with R 2.pdf')
+WindowsPath("99_Papers/LazicD/Lazic_2021_Can Robots Inform a Honeybee Colony's Foraging Decision-Making 2.pdf")
+WindowsPath('99_Papers/Le GoffL/Le Goff_2020_On Pros and Cons of Evolving Topologies with Novelty Search 2.pdf')
+WindowsPath('99_Papers/Le GoffL/Le Goff_2020_Sample and time efficient policy learning with CMA-ES and Bayesian Optimisation 2.pdf')
+WindowsPath('99_Papers/LeasM/Leas_2016_The Prisoners Dilemma, Memory, and the Early Evolution of Intelligence 2.pdf')
+WindowsPath('99_Papers/LedbetterM/Ledbetter_2020_Nanopore Sequencing of an Expanded Genetic Alphabet Reveals High-Fidelity Replication of a Predomina 2.pdf')
+WindowsPath('99_Papers/LeeN/Lee_2013_Modelling the Migration and Maturation of Dendritic Cells for Automatic Optimization of Complex Engi 2.pdf')
+WindowsPath('99_Papers/LeesonP/Leeson_2007_An‐arrgh‐chy The Law and Economics of Pirate Organization 2.pdf')
+WindowsPath('99_Papers/LeeW/Lee_2014_Adaptive Division of Labor in Multi-Robot System with Minimum Task Switching 2.pdf')
+WindowsPath('99_Papers/LeeW/Lee_2014_Task Partitioning Based on Response Threshold Model in Robot Harvesting Task 2.pdf')
+WindowsPath('99_Papers/LegmannR/Legmann_2009_A predictive high‐throughput scale‐down model of monoclonal antibody production in CHO cells 2.pdf')
+WindowsPath('99_Papers/LeN/Le_2019_Organic Selection and Social Heredity The Original Baldwin Effect Revisited 2.pdf')
+WindowsPath('99_Papers/LeãoP/Leão_2024_Asgard archaea defense systems and their roles in the origin of eukaryotic immunity 2.pdf')
+WindowsPath('99_Papers/McCormackJ/McCormack_2003_Evolving sonic ecosystems 2.pdf')
+WindowsPath('99_Papers/MooreJ/Moore_2019_The Limits of Lexicase Selection in an Evolutionary Robotics Task 2.pdf')
+WindowsPath('99_Papers/MooreJ/Moore_2020_When Specialists Transition to Generalists Evolutionary Pressure in Lexicase Selection 2.pdf')
+WindowsPath('99_Papers/MosleyL/Mosley_2019_Analyzing Evolution of Avian Influenza using detailed Genotypic and Antigenic Models and Phylodynami 2.pdf')
+WindowsPath('99_Papers/MostofiK/Mostofi_2024_Practice of neurosurgery on Saturn 2.pdf')
+WindowsPath('99_Papers/MotenF/Moten_2004_The University and the Undercommons SEVEN THESES 2.pdf')
+WindowsPath('99_Papers/MottesF/Mottes_2023_In silico morphogenetic engineering with differentiable programming 2.pdf')
+WindowsPath('99_Papers/MouretJ/Mouret_2014_Abstract of “On the Relationship between Generative Encodings, Regularity, and Learning Abilities w 2.pdf')
+WindowsPath('99_Papers/MouretJ/Mouret_2015_Illuminating search spaces by mapping elites 2.pdf')
+WindowsPath('99_Papers/MuehlenbachsA/Muehlenbachs_2015_Malignant Transformation of Hymenolepis nana in a Human Host 2.pdf')
+WindowsPath('99_Papers/Muñoz-GambaA/Muñoz-Gamba_2021_Molecular characterization of mosquitoes (Diptera Culicidae) from the Colombian rainforest 2.pdf')
+WindowsPath('99_Papers/Muñoz-NortesT/Muñoz-Nortes_2014_Symmetry, asymmetry, and the cell cycle in plants known knowns and some known unknowns 2.pdf')
+WindowsPath('99_Papers/MüllerA/Müller_2015_Do it yourself (DIY) liquid handling robot for evolutionary search exploration 2.pdf')
+WindowsPath('99_Papers/MüllerP/Müller_2013_Identification of cryptic Anopheles mosquito species by molecular protein profiling 2.pdf')
+WindowsPath('99_Papers/MüllerV/Müller_2017_What Is Morphological Computation On How the Body Contributes to Cognition and Control 2.pdf')
+WindowsPath('99_Papers/JuelB/Juel_2019_When is an action caused from within Quantifying the causal chain leading to actions in simulated a 3.pdf')
+WindowsPath('99_Papers/KhalufY/Khaluf_2019_Modulating Interaction Times in an Artificial Society of Robots 3.pdf')
+WindowsPath('99_Papers/KnibbeC/Knibbe_2014_What Happened to My Genes Insights on Gene Family Dynamics from Digital Genetics Experiments 3.pdf')
+WindowsPath('99_Papers/Komosin´skiM/Komosin´ski_2003_The Framsticks system versatile simulator of 3D agents and their evolution 3.pdf')
+WindowsPath('99_Papers/KooninE/Koonin_2012_Defining Life An Exercise in Semantics or A Route to Biological Insights 3.pdf')
+WindowsPath('99_Papers/KooninE/Koonin_2016_Horizontal gene transfer essentiality and evolvability in prokaryotes, and roles in evolutionary tr 3.pdf')
+WindowsPath('99_Papers/Kramer-BottiglioR/Kramer-Bottiglio_2020_From Particles to Parts — Building Artificial Life from Multifunctional Composites 3.pdf')
+WindowsPath('99_Papers/KrastevM/Krastev_2016_Emergent Bonding Properties in the Spiky RBN AChem 3.pdf')
+WindowsPath('99_Papers/LeijnenS/Leijnen_2016_Exploring Constraint Simulating Self-Organization and Autogenesis in the Autogenic Automaton 3.pdf')
+WindowsPath('99_Papers/LeiQ/Lei_2021_Entropy-Based Classification of Elementary Cellular Automata under Asynchronous Updating An Experim 3.pdf')
+WindowsPath('99_Papers/LeiteA/Leite_2020_Reinforcement learning beyond the Bellman equation Exploring critic objectives using evolution 3.pdf')
+WindowsPath('99_Papers/LeiteA/Leite_2021_Generating reward structures on a parameterized distribution of dynamics tasks 3.pdf')
+WindowsPath('99_Papers/LeitherS/Leither_2023_Interaction Strengths Affect Whether Ecological Networks Promote the Initiation of Egalitarian Major 3.pdf')
+WindowsPath('99_Papers/LeivaI/Leiva_2024_On elementary cellular automata asymptotic (a)synchronism sensitivity and complexity 3.pdf')
+WindowsPath('99_Papers/LessinD/Lessin_2014_Adopting Morphology to Multiple Tasks in Evolved Virtual Creatures 3.pdf')
+WindowsPath('99_Papers/LessinD/Lessin_2015_Soft-Body Muscles for Evolved Virtual Creatures The Next Step on a Bio-Mimetic Path to Meaningful M 3.pdf')
+WindowsPath('99_Papers/LeungB/Leung_2018_Modular Neural Control for Bio-Inspired Walking and Ball Rolling of a Dung Beetle-Like Robot 3.pdf')
+WindowsPath('99_Papers/LevensonR/Levenson_2015_Pigeons (Columba livia) as Trainable Observers of Pathology and Radiology Breast Cancer Images 3.pdf')
+WindowsPath('99_Papers/LevinD/Levin_2015_Volatility and spatial distribution of resources determine ant foraging strategies 3.pdf')
+WindowsPath('99_Papers/MixL/Mix_2024_Foreword to the Astrobiology Primer 3.0 1.pdf')
+WindowsPath('99_Papers/MooreJ/Moore_2019_The Limits of Lexicase Selection in an Evolutionary Robotics Task 3.pdf')
+WindowsPath('99_Papers/MooreJ/Moore_2020_When Specialists Transition to Generalists Evolutionary Pressure in Lexicase Selection 3.pdf')
+WindowsPath('99_Papers/SchaibleM/Schaible_2024_Chapter 1 The Astrobiology Primer 3.0.pdf')
+WindowsPath('99_Papers/LangdonW/Langdon_2019_Continuous Long-Term Evolution of Genetic Programming 4.pdf')
+WindowsPath('99_Papers/LevinM/Levin_2015_Reading and Writing the Morphogenetic Code 4.pdf')
+WindowsPath('99_Papers/LevinM/Levin_2019_The Computational Boundary of a “Self” Developmental Bioelectricity Drives Multicellularity and Sca 4.pdf')
+WindowsPath('99_Papers/LevinM/Levin_2020_Robot Cancer what the bioelectrics of embryogenesis and regeneration can teach us about unconventio 4.pdf')
+WindowsPath('99_Papers/LevinM/Levin_2021_Bioelectric signaling Reprogrammable circuits underlying embryogenesis, regeneration, and cancer 4.pdf')
+WindowsPath('99_Papers/LevinM/Levin_2021_Bioelectrical approaches to cancer as a problem of the scaling of the cellular self 4.pdf')
+WindowsPath('99_Papers/LevinM/Levin_2021_Life, death, and self Fundamental questions of primitive cognition viewed through the lens of body 4.pdf')
+WindowsPath('99_Papers/LevinM/Levin_2021_Technological Approach to Mind Everywhere (TAME) an experimentally-grounded framework for understan 4.pdf')
+WindowsPath('99_Papers/LevinM/Levin_2023_Collective Intelligence of Morphogenesis as a Teleonomic Process 4.pdf')
+WindowsPath('99_Papers/LangdonW/Langdon_2019_Continuous Long-Term Evolution of Genetic Programming 5.pdf')
+WindowsPath('99_Papers/LevinM/Levin_2021_Uncovering cognitive similarities and differences, conservation and innovation 6.pdf')
+WindowsPath('99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 8.pdf')
+WindowsPath("99_Papers/KrellnerM/Krellner and Han_2020_Putting oneself in everybody's shoes - Pleasing enables indirect reciprocity under private assessmen 9.pdf")
+WindowsPath('99_Papers/KrellnerM/Krellner and Han_2022_The Last One Standing - Recent Findings on the Feasibility of Indirect Reciprocity under Private As 9.pdf')
+WindowsPath('99_Papers/KrellnerM/Krellner and Han_2024_Evolution of Cooperation via Joint Commitments and Reputation 9.pdf')
+WindowsPath('99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 9.pdf')
+WindowsPath('99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 10.pdf')
+WindowsPath('99_Papers/LalanneC/Lalanne_2005_R Companion to Montgomery’s Design and Analysis of Experiments (2005) 11.pdf')
+WindowsPath('99_Papers/KrawecW/Krawec_2012_On the Emergent Behaviors of a Robot Controlled by a Real-Time Evolving Neural Network 12.pdf')
